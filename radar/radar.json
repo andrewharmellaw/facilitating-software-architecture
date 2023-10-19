@@ -15,14 +15,14 @@
   },
   {
     "name": "Android-x86",
-    "ring": "assess",
+    "ring": "hold",
     "quadrant": "platforms",
     "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "GrapCloud lift and shifthQL",
-    "ring": "hold",
+    "ring": "retire",
     "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "test"
