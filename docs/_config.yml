@@ -21,11 +21,7 @@
 title: Facilitating Software Architecture
 email: info@facilitatingsoftwarearchitecture.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "Welcome to the site that accompanys the O'Reilly's \"Facilitating Software 
-  Architecture\" by Andrew Harmel-Law. Here you'll find additional resources that
-  complement those in the book including examples and additional articles on how
-  to get the most out of your decentralized, feedback-centering architecture 
-  practice."
+  This is where the site description goes.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "facilitatingsoftwarearchitecture.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
