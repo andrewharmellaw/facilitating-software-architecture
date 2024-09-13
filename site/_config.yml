@@ -28,7 +28,7 @@ url: https://facilitatingsoftwarearchitecture.com # the base hostname & protocol
 #github_username:  jekyll
 
 # Build settings
-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
