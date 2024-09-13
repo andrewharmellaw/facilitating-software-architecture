@@ -3,6 +3,7 @@ layout: post
 title: "This is a test post"
 date: 2024-09-12 15:42:00 -0000
 categories: jekyll update
+redirect_from: /post/123456798/
 ---
 
 This is a test post.
