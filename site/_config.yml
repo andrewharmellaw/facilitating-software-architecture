@@ -27,6 +27,8 @@ url: https://facilitatingsoftwarearchitecture.com # the base hostname & protocol
 #twitter_username: jekyllrb
 #github_username:  jekyll
 logo: /assets/img/cover.png
+show_downloads: true
+google_analytics: 
 
 # Build settings
 #theme: jekyll-theme-minimal
