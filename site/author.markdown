@@ -6,7 +6,7 @@ layout: default
 redirect_from: /author/
 ---
 # About Andrew Harmel-Law
-![Andrew Harmel-Law, the author of Facilitating Software Architecture giving a talk at JFokus, Stockholm, in 2020]({{/assets/images/andrew-harmel-law.png | relative_url}})
+![Andrew Harmel-Law, the author of Facilitating Software Architecture giving a talk at JFokus, Stockholm, in 2020](/assets/images/andrew-harmel-law.png)
 
 Lorem Ipsum...
 
