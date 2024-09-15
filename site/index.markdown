@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# About the book "Facilitating Software Architecture'
+# About the book "Facilitating Software Architecture"
 The role of a software architect is evolving. As systems and distributed teams become more complex, it is becoming impossible for architects to be everywhere they need to be. Consultants have to move onto the next client and, for those who remain in-house, being a 'hands-on' architect, moving from team to team, getting into the code, collaborating as required, has reached its breaking point. There is too much to know and too many places to be.
 
 "Facilitating Software Architecture" describes another way to do architecture driven by decentralized and empowering decision-making techniques. It explains how to be an effective architect and how to structure an architecture organization for success when you need to scale out with many, many development teams. Learn an alternative approach to architecting, documenting, and evolving complex systems that will remain coherent while responding to the unique circumstances in your organization. Using the techniques in the book, you can ensure that everyone and everything is working towards the same goal, that the correct understandings are reached with the correct people, that it’s clear where everyone is at any given moment, and that (most importantly) you’re doing this efficiently and effectively. This collaborative, decentralized mindset, propelled by a simple set of enabling constraints and arranged according to some core principles, allows us all to ‘do’ architecture and build the best systems we’ve ever experienced. Systems which we’re all proud of, and that are a joy to work with.
