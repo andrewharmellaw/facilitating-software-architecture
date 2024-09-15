@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+redirect-from: /book/
 ---
 
 # About the book "Facilitating Software Architecture"
