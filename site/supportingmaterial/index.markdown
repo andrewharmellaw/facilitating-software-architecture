@@ -10,8 +10,7 @@ Lorem ipsum...
 ## Worked Examples and Additional Material From the Book
 ### Chapter 4 - The Architecture Advice Process
 * Architecture Advice Process One-Pager
-### Chapter 5 - Rolling Out the Architectural Advice Process
-* 
+
 ### Chapter 6 - Architecural Decision Records
 * Starter ADR template
 * An example ADR (with change history)
