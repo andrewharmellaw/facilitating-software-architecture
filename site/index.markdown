@@ -15,7 +15,27 @@ The role of a software architect is evolving. As systems and distributed teams b
 Lorem ipsum ...
 
 # Book outline
-Lorem ipsum ...
+## Part I - First Principles
+Chapter 1 - Centralized Architecture Practices in a Decentralized World<br/>
+Chapter 2 - To Practice Architecture is to Decide<br/>
+Chapter 3 - Decisions at Scale<br/>
+Chapter 4 - The Architecture Advice Process<br/>
+Chapter 5 - Rolling Out the Architecture Advice Process<br/>
+Chapter 6 - Architectural Decision Records<br/>
+## Part II - Nurturing and Evolving Your Culture of Decentralized Trust
+Chapter 7 - Replacing Hierarchy With Decentralized Trust<br/>
+Chapter 8 - An Architecture Advice Forum<br/>
+Chapter 9 - Testable CFRs and Actionable Tech Strategy<br/>
+Chapter 10 - Collectively-Sourced Architectural Principles<br/>
+Chapter 11 - Using a Technology Radar<br/>
+## Part III - Finding Your Way Through the Decision Landscape
+Chapter 12 - The Art of Deciding<br/>
+Chapter 13 - Tackling Architectural Variability<br/>
+Chapter 14 - Variability and the Interconnectedness of Decisions<br/>
+## Part IV - Centering the “Social” in Your Practice of Architecture
+Chapter 15 - The Transition of Power and Accountability<br/>
+Chapter 16 - On Leadership<br/>
+Chapter 17 - Fitting the Advice Process Within Your Organization<br/>
 
 # Why I wrote the book
 Software architecture is getting harder and harder. In the past few years Neal Ford, Mark Richards, Pramod Sadalage and Zhamak Dehghani have provided 750+ pages on ‘the hard parts’ and Gregor Hohpe gave us 350 more pages on riding the ‘Software Architect Elevator’. We have a lot to learn, continuously, if we want to keep our systems working. Those with ‘traditional’ architecture roles – top-down, ivory tower, father-knows-best – feel this rising knowledge gap keenly. The responsibilities of designing and evolving complex systems can no longer be undertaken by a blessed few.
