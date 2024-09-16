@@ -8,11 +8,37 @@ layout: default
 Lorem ipsum...
 
 ## Worked Examples and Additional Material From the Book
-### Chapter X - ... 
-Lorem ipsum...
+### Chapter 4 - The Architecture Advice Process
+* Architecture Advice Process One-Pager
+### Chapter 5 - Rolling Out the Architectural Advice Process
+* 
+### Chapter 6 - Architecural Decision Records
+* Starter ADR template
+* An example ADR (with change history)
+
+### Chapter 7 - Replacing Hierarchy With Decentralized Trust
+* The BossaNOVA approach to org design experimentation
+
+### Chapter 8 - An Architecture Advice Forum
+* An example AAF Terms of Reference
+* An example AAF Invitation
+* An example AAF Standing Agenda
+* AAF Frequently Asked Questions
+
+### Chapter 10 - Collectively-Sourced Architectural Principles
+* An example Principles Workshop invite
+* Architectural Principles and their relation to ADRs, advice and CFRs
+
+### Chapter 11 - Using a Technology Radar
+* An example Technology Radar
+* Further uses for a Technology Radar
+
+### Chapter 14 - Variability and the Interconnectedness of Decisions
+* A spike example
 
 ## Talks About Facilitating Software Architecture
 Lorem ipsum...
 
 ## Additional Material 
-Lorem ipsum... (Reading list)
+Lorem ipsum...
+* Reading list
