@@ -30,7 +30,7 @@ Lorem ipsum...
 
 ### Chapter 11 - Using a Technology Radar
 * An example Technology Radar
-* Further uses for a Technology Radar
+* [Alternative Technology Radar Flavours](/alternative-tech-radar-flavors/).
 
 ### Chapter 14 - Variability and the Interconnectedness of Decisions
 * A spike example
