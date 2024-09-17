@@ -36,7 +36,10 @@ Lorem ipsum...
 * A spike example
 
 ### Chapter 15 - The Transition of Power and Accountability
-* [Some more thoughts on typical saboteurs of the advice process and decentralized deciding in general](/typical-saboteurs/).
+* [Thoughts on typical saboteurs of the advice process and decentralized deciding in general](/typical-saboteurs/).
+
+### Chapter 16 - On Leadership
+* [Why “Autonomous” Teams Don’t Realize Their Full Acountabilities](/autonomous-teams-and-accountabilities/).
 
 ## Talks About Facilitating Software Architecture
 Lorem ipsum...
