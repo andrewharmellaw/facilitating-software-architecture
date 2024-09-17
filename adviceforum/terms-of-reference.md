@@ -1,4 +1,4 @@
-# A Typical Architecture Advice Forum Terms of Reference
+# An Example Architecture Advice Forum Terms of Reference
 
 ## Background
 The Architecture Advice Forum (AAF) is a key part of the decentralized approach to lightweight architectural governance at [YOUR_COMPANY].
