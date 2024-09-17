@@ -35,6 +35,9 @@ Lorem ipsum...
 ### Chapter 14 - Variability and the Interconnectedness of Decisions
 * A spike example
 
+### Chapter 15 - The Transition of Power and Accountability
+* [Some more thoughts on typical saboteurs of the advice process and decentralized deciding in general](/typical-saboteurs/).
+
 ## Talks About Facilitating Software Architecture
 Lorem ipsum...
 
