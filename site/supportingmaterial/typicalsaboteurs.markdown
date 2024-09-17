@@ -7,11 +7,11 @@ redirect_from: /typical-saboteurs/
 ---
 # Typical Saboteurs of the Architecture Advice Process, and Decentralized Deciding in General
 
-I hedged my bets as to the motivations of saboteurs in [Chapter 15, in the section called "Types of Sabotage"](DEEP-LINK-THIS), and if you did too, well done. Despite everything, it is still possible that someone could be unwittingly sabotaging the transition to the advice process. It’s impossible to tell if this is the case, but there is one other factor I have noticed that can help you be as sure as possible that something is true sabotage as opposed to unconscious bias or naivete.
+I hedged my bets as to the motivations of saboteurs in [Chapter 15 (in the section "Types of Sabotage"](DEEP-LINK-THIS)) and if you did too, well done. Despite everything, it is still possible that someone could be unwittingly sabotaging the transition to the advice process. It’s impossible to tell if this is the case, but there is one other factor I have noticed that can help you be as sure as possible that something is true sabotage as opposed to unconscious bias or naivete.
  
 This deciding factor arises because there is a criteria for identifying those more likely to be engaged in sabotage. These criteria define where traditional power comes from, and so those who have these power bases undermined are more likely to fight back.
 
-Anthropologist David Graeber and Archaeologist David Wengrow [propose](https://www.amazon.co.uk/Dawn-Everything-New-History-Humanity/dp/B098KP6T67/) that for a power imbalance to persist, two of the following three sources of power need to be present:
+Anthropologist David Graeber and Archaeologist David Wengrow [propose in their book "The Dawn of Everything"](https://www.amazon.co.uk/Dawn-Everything-New-History-Humanity/dp/B098KP6T67/) that for a power imbalance to persist, two of the following three sources of power need to be present:
 
 * control of punishment
 * control of information
@@ -29,4 +29,4 @@ You can tell if charisma is at play when people are scared to make decisions, an
 
 And so these are your most likely saboteurs. Those with access to at least two of these three sources of power. 
 
-It is also distinctly possible the people who meet this criteria are the ones who are the biggest supporters of the power transition. Remember the story in [Chapter 12, in the subsection entitled "When others are taking the decision"](DEEP-LINK-THIS), the one where I wanted to exercise the power and overrule a team. Pete had access to all three of these power sources. He was the Head of Development with the ear of both the founder and CEO. He also wrote a significant amount of the code in the current systems. He was also highly loved by his teams, he was fun to hang around with, and was masterful at building trust and shared commitment. Despite this, Pete was the one who reminded me how the advice process works.
+It is also distinctly possible the people who meet this criteria are the ones who are the biggest supporters of the power transition. Remember the story in [Chapter 12 (in the section "When others are taking the decision"](DEEP-LINK-THIS)) the one where I wanted to exercise the power and overrule a team. Pete had access to all three of these power sources. He was the Head of Development with the ear of both the founder and CEO. He also wrote a significant amount of the code in the current systems. He was also highly loved by his teams, he was fun to hang around with, and was masterful at building trust and shared commitment. Despite this, Pete was the one who reminded me how the advice process works.
