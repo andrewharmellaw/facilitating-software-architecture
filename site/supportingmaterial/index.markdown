@@ -25,6 +25,7 @@ Lorem ipsum...
 * AAF Frequently Asked Questions
 
 ### Chapter 10 - Collectively-Sourced Architectural Principles
+* [Alternative Architectural Principle Flavours](/alternative-architectural-principle-flavors/)
 * An example Principles Workshop invite
 * Architectural Principles and their relation to ADRs, advice and CFRs
 
