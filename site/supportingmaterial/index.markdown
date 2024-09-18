@@ -19,6 +19,7 @@ Lorem ipsum...
 * The BossaNOVA approach to org design experimentation
 
 ### Chapter 8 - An Architecture Advice Forum
+* [Alternative Advice Forum Flavours](/alternative-advice-forum-flavors/)
 * [An example AAF Terms of Reference](https://github.com/andrewharmellaw/facilitating-software-architecture/blob/main/adviceforum/terms-of-reference.md)
 * An example AAF Invitation
 * An example AAF Standing Agenda
