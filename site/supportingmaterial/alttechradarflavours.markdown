@@ -50,7 +50,7 @@ How can you know when to move a blip into “retire”? Periodical consideration
 When the time comes to expend effort in strategically divesting from one or more blips, this can immediately be flagged by the blip moving to the new ring, and an associated ADR is produced explaining the thought process behind this move. The subsequent advice process offers teams and other affected parties and experts to offer their inputs. Consequently, the divestment happens explicitly, and with more risks mitigated before it even begins compared to any other approach I am aware of.
 
 ## Additional blip information
-It’s up to you what information you capture in your radar. While I’d advise against changing the look and feel of the visualization itself, the details area, and associated blip pages on your wiki should be considered open, fertile ground. 
+It’s up to you what information you capture in your radar. While I’d advise against changing the look and feel of the visualization itself (I’ve tried myself and it’s amazing how rapidly the addition of even one more visual element can trash its simplicity and ability to communicate a lot of information) the details area, and associated blip pages on your wiki should be considered open, fertile ground. 
 
 The two most important aspects to bear in mind are the contents of your radar and their purpose. 
 
