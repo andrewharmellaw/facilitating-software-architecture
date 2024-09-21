@@ -16,7 +16,7 @@ Lorem ipsum...
 * An example ADR (with change history)
 
 ### Chapter 7 - Replacing Hierarchy With Decentralized Trust
-* The BossaNOVA approach to org design experimentation
+* [The BossaNOVA approach to org design experimentation](/bossanova-experimentation/)
 
 ### Chapter 8 - An Architecture Advice Forum
 * [Alternative Advice Forum Flavours](/alternative-advice-forum-flavors/)
