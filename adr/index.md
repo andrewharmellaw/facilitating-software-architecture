@@ -1,7 +1,7 @@
 # Example Architectural Decision Records from Facilitating Software Architecture
 Chapter 6 of [Facilitating Software Architecture](https://facilitatingsoftwarearchitecture.com/) by Andrew Harmel-Law has two example Architectural Decision Recirds (ADRs). 
 
- * The first example is a completed ADR.
+ * The first example is [a completed ADR](ADR002-Shorten-inventory-ids-with-naonoid.md).
  * The second example shows how an ADR changes as it is written
 
 ## Community ADR examples 
