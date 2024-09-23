@@ -27,15 +27,14 @@ Lorem ipsum...
 
 ### Chapter 10 - Collectively-Sourced Architectural Principles
 * [Alternative Architectural Principle Flavours](/alternative-architectural-principle-flavors/)
-* An example Principles Workshop invite
 * Architectural Principles and their relation to ADRs, advice and CFRs
 
 ### Chapter 11 - Using a Technology Radar
-* An example Technology Radar
+* [An example Technology Radar](/radar-example])
 * [Alternative Technology Radar Flavours](/alternative-tech-radar-flavors/).
 
 ### Chapter 14 - Variability and the Interconnectedness of Decisions
-* A spike example
+* [A spike example](/spike-example/)
 
 ### Chapter 15 - The Transition of Power and Accountability
 * [Thoughts on typical saboteurs of the advice process and decentralized deciding in general](/typical-saboteurs/).
