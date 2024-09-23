@@ -5,4 +5,4 @@ Chapter 6 of [Facilitating Software Architecture](https://facilitatingsoftwarear
  * The second example shows how an ADR changes as it is written
 
 ## Community ADR examples 
-Contact me at info@facilitatingsoftwarearchitecture.com if you have an example ADR to share (and you have the permission to share it).
+Contact me at info@facilitatingsoftwarearchitecture.com if you have an example ADR to share (and you have the permission to share it) and we can see if it might help others learn.
