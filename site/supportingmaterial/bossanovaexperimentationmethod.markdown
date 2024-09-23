@@ -137,7 +137,7 @@ This is not a book on the practice of transformations. There are others which ar
 My approach has three stages when it comes to adopting a change. The first is “tight”. When doing this, you roll out the change making it as clear and definite what the change is as possible. For example, you are adding a new field to all new ADRs as shown in the following example probe. You can see how it tells everyone this new practice is being adopted, why, and what it is hoped will be gained from it. If needed, the experiment can be referred back to in order to make clear why this is being adopted.
 
 
-|<b>Probe:</br> How do we find out how people are feeling about this new permission to decide?|
+|<b>Probe: How do we find out how people are feeling about this new permission to decide?</b>|
 |:-------|
 |<i>Background:</i> We’ve adopted the Architecture Advice Process supported by ADRs and while some teams have jumped at the chance to do their own deciding, others haven’t. Many of those teams are halfway there, but rather than deciding themselves, are asking architects to do it for them.|
 |<i>Hypothesis:</i> Teams want to decide, but are afraid to take the final step and drive decisions themselves, putting their names against the outcome.|
@@ -154,3 +154,35 @@ The initial “tight” phase allows everyone to get past this early, painful st
 In this loose phase you are stepping back and trusting that the discipline will stay in place. You are also making space for the collective to truly understand and assimilate this new practice. This might result in innovative changes taking place. Ones which would not be possible under the harsh glare of the first “tight” phase. This is important because it allows the new element, with now generally understood outcomes, to be molded by and to the existing culture. During the loose phase you want to look for and celebrate this creativity so that everyone is aware of it, and the fact that it is not simply welcomed, but valued. In the example of the new field in the ADR template you can allow it to be left empty, and also allow other values to be recorded beyond the ones in the probe list. You can also see which of the proposed values are never used. In this stage I’m far quieter. I don’t pounce on every slip-up, instead making space for the collective to do it, and invariably, they do. It’s important at this stage to celebrate the fact the team is taking this into their own culture, using it as a way of solving their problems (to return to Edgar Schein’s definition of culture from 2004: "organizational culture is a pattern of shared basic assumptions that a group working together for a common goal has created in learning to cope with the problems of external adaptation and internal integration.").
 
 Finally comes the second “tight” phase. Once the new element or element change has been assimilated into the system in a solid and predictable way you can start taking advantage of it and building on top of it. For that reason the return is not as abrupt. While the first “tight” was to a certain extent (necessarily) overbearing and bureaucratic, this second “tight” phase is relying on the culture to do the reinforcement. Again in the new ADR field example the list could be restricted again but to the updated list and its completion again made mandatory (assuming the experiment proved it was useful, if not, the field could be dropped entirely). I know it’s happening when I hear individuals explaining the same things I used to in the first tight stage, but now without any intervention from me. They’ll be able to explain why too. And apply it in far more subtle and nuanced ways.
+
+## Example probes from the book
+
+### Chapter 10 - Architectural Principles
+
+|**Probe: Would an explicit set of agreed Architectural Principles focus decision-making, ensuring decisions taken deliver on the technical strategy?**|
+|:-------|
+|_Background:_ In order for multiple teams to build software which effectively delivers against the organization’s vision and goals a necessary minimal level of agreement is required. While the “what” may be captured as CFRs there is also the need to state key agreements on “how” certain things are to be done. It is true that a clear technical strategy translates an organization’s north-star into something more specific, but it is frequently not detailed enough to sufficiently align decision making. Something additional is required.|
+|_Hypothesis:_ A set of collective agreements on how key aspects of software architecture will deliver, ones that are explicitly aligned to the organization’s vision and goals, will result in architectures which attract minimal surprise in both significant decisions and their implementation. Individual decisions will be made more rapidly, and more in line with the organization’s technical strategy.|
+|_Experiment:_ Capture a set of 8-15 architectural principles from the entire software delivery organization that will use them. Every time a significant decision is taken, explicitly flag which of these principles apply. If the decision runs contrary to a principle then make the reasoning for the deviation explicit.|
+
+|**Probe: Can implicit principles be captured from advice?**|
+|:-------|
+|_Background:_ Sometimes a set of principles, despite being implicit, are solid and ubiquitous enough that they serve the same purpose as a more explicit set. However, their continued success relies upon these implicit principles being understood enough by sufficient members of the delivery teams that they can be applied to decisions. When a company scales up fast this implicit minimal viable agreement might be insufficient to maintain alignment.|
+|_Hypothesis:_ These principles will have surfaced explicitly, in the form of advice on decisions. These principles can therefore be captured to everyone's satisfaction in the form of concrete principles.|
+|_Experiment:_ Capture what appears to be a principle in the form of an ADR. Submit this ADR to the standard advice process, but with a maximally decentralized decision process to reach the ADOPTED state. If the hypothesis is correct, then multiple principles can be captured and collectively ratified in this way.|
+
+|**Probe: Does it help to codify key principles as ADRs?**|
+|:-------|
+|_Background:_ Principles benefit from being short, sharp, and to the point. (S.M.A.R.T. in fact) but sometimes behind them, a lot of detail can be provided. It is a mistake to lose this detail when it might need to be referred to again and again. Especially when the principle is something fundamental to the overall design of a system.|
+|_Hypothesis:_ It is useful to capture the details (options considered, implications etc) behind certain principles for the benefit of future decision-makers. An ADR format is ideally suited to this.|
+|_Experiment:_ Capture a principle which would benefit from this detail as an ADR. If this is successful, close adherence to this fundamental area will be in evidence.|
+
+### Chapter 11 - Technology Radar
+
+|**Probe: Would a periodic scan of the technical landscape and climate provide guidelines for decision alignment?**|
+|:-------|
+|_Background:_ While an advice process offers a great deal of situational information to teams it is very focused on decisions in software architecture. An even broader base of awareness, knowledge, experience is out there in your organization, potentially untapped.|
+|_Hypothesis:_ Making the predicted, current, and past cross-organization view of the technology climate available as guidelines will make for better, faster and more aligned technical decisions.|
+|_Experiment:_ Create your own technology radar based on everything your technical teams and other key stakeholders have experienced, are currently living with, and are considering investigating. |
+
+
