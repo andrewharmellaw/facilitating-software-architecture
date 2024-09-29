@@ -12,8 +12,9 @@ Lorem ipsum...
 * Architecture Advice Process One-Pager
 
 ### Chapter 6 - Architecural Decision Records
-* Starter ADR template
-* An example ADR (with change history)
+* [Starter ADR template](/adr-template/)
+* [The first example ADR - "Shorten Inventory IDs with Nanoid"](/first-adr-example/)
+* [The second example ADR - "Change subscription mandates without costing the customer or the company money" (with change history)](/second-adr-example/)
 
 ### Chapter 7 - Replacing Hierarchy With Decentralized Trust
 * [The BossaNOVA approach to org design experimentation](/bossanova-experimentation/)
