@@ -11,31 +11,28 @@ The role of a software architect is evolving. As systems and distributed teams b
 
 "Facilitating Software Architecture" describes another way to do architecture driven by decentralized and empowering decision-making techniques. It explains how to be an effective architect and how to structure an architecture organization for success when you need to scale out with many, many development teams. Learn an alternative approach to architecting, documenting, and evolving complex systems that will remain coherent while responding to the unique circumstances in your organization. Using the techniques in the book, you can ensure that everyone and everything is working towards the same goal, that the correct understandings are reached with the correct people, that it’s clear where everyone is at any given moment, and that (most importantly) you’re doing this efficiently and effectively. This collaborative, decentralized mindset, propelled by a simple set of enabling constraints and arranged according to some core principles, allows us all to ‘do’ architecture and build the best systems we’ve ever experienced. Systems which we’re all proud of, and that are a joy to work with.
 
-# Praise for the first edition
-Lorem ipsum ...
-
 # Book outline
 ## Part I - First Principles
-Chapter 1 - Centralized Architecture Practices in a Decentralized World<br/>
-Chapter 2 - To Practice Architecture is to Decide<br/>
-Chapter 3 - Decisions at Scale<br/>
-Chapter 4 - The Architecture Advice Process<br/>
-Chapter 5 - Rolling Out the Architecture Advice Process<br/>
-Chapter 6 - Architectural Decision Records<br/>
+Chapter 1 - [Centralized Architecture Practices in a Decentralized World](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch01.html)<br/>
+Chapter 2 - [To Practice Architecture is to Decide](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch02.html)<br/>
+Chapter 3 - [Decisions at Scale](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch03.html)<br/>
+Chapter 4 - [The Architecture Advice Process](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch04.html)<br/>
+Chapter 5 - [Rolling Out the Architecture Advice Process](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch05.html)<br/>
+Chapter 6 - [Architectural Decision Records](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch06.html)<br/>
 ## Part II - Nurturing and Evolving Your Culture of Decentralized Trust
-Chapter 7 - Replacing Hierarchy With Decentralized Trust<br/>
-Chapter 8 - An Architecture Advice Forum<br/>
-Chapter 9 - Testable CFRs and Actionable Tech Strategy<br/>
-Chapter 10 - Collectively-Sourced Architectural Principles<br/>
-Chapter 11 - Using a Technology Radar<br/>
+Chapter 7 - [Replacing Hierarchy With Decentralized Trust](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch07.html)<br/>
+Chapter 8 - [An Architecture Advice Forum](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch08.html)<br/>
+Chapter 9 - [Testable CFRs and Actionable Tech Strategy](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch09.html)<br/>
+Chapter 10 - [Collectively-Sourced Architectural Principles](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch10.html)<br/>
+Chapter 11 - [Using a Technology Radar](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch11.html)<br/>
 ## Part III - Finding Your Way Through the Decision Landscape
-Chapter 12 - The Art of Deciding<br/>
-Chapter 13 - Tackling Architectural Variability<br/>
-Chapter 14 - Variability and the Interconnectedness of Decisions<br/>
+Chapter 12 - [The Art of Deciding](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch12.html)<br/>
+Chapter 13 - [Tackling Architectural Variability](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch13.html)<br/>
+Chapter 14 - [Variability and the Interconnectedness of Decisions](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch14.html)<br/>
 ## Part IV - Centering the “Social” in Your Practice of Architecture
-Chapter 15 - The Transition of Power and Accountability<br/>
-Chapter 16 - On Leadership<br/>
-Chapter 17 - Fitting the Advice Process Within Your Organization<br/>
+Chapter 15 - [The Transition of Power and Accountability](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch15.html)<br/>
+Chapter 16 - [On Leadership](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch16.html)<br/>
+Chapter 17 - [Fitting the Advice Process Within Your Organization](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch17.html)<br/>
 
 # Why I wrote the book
 Software architecture is getting harder and harder. In the past few years Neal Ford, Mark Richards, Pramod Sadalage and Zhamak Dehghani have provided 750+ pages on ‘the hard parts’ and Gregor Hohpe gave us 350 more pages on riding the ‘Software Architect Elevator’. We have a lot to learn, continuously, if we want to keep our systems working. Those with ‘traditional’ architecture roles – top-down, ivory tower, father-knows-best – feel this rising knowledge gap keenly. The responsibilities of designing and evolving complex systems can no longer be undertaken by a blessed few.
@@ -51,6 +48,3 @@ Interest elsewhere was also strong. I was interviewed by InfoQ for an article an
 Since the Early Access drafts of the book were available I continued to have great interactions with many people trying out the techniques I outlined, and mixing in their own. Others approached me to tell me they'd ended up at a simmilar place having followed their own instincts. Everyone offered me a great deal of feedback that was gratefully received. Much of it ending up directly in the final book.
 
 It is my hope that a community of practice will build around this approach and those like it. It is also my hope that this site will become one of multiple hubs for this community. Because thinking and building and learning together is incredibly powerful.
-
-# Facilitating Software Architecture Community
-Lorem ipsum ...
