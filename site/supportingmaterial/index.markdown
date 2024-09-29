@@ -22,12 +22,10 @@ Lorem ipsum...
 ### Chapter 8 - An Architecture Advice Forum
 * [Alternative Advice Forum Flavours](/alternative-advice-forum-flavors/)
 * [An example AAF Terms of Reference](https://github.com/andrewharmellaw/facilitating-software-architecture/blob/main/adviceforum/terms-of-reference.md)
-* An example AAF Invitation
 * [An example AAF Standing Agenda](/aaf-standing-agenda-example/)
 
 ### Chapter 10 - Collectively-Sourced Architectural Principles
 * [Alternative Architectural Principle Flavours](/alternative-architectural-principle-flavors/)
-* Architectural Principles and their relation to ADRs, advice and CFRs
 
 ### Chapter 11 - Using a Technology Radar
 * [An example Technology Radar](/radar-example])
