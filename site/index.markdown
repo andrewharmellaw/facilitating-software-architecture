@@ -4,7 +4,7 @@
 
 layout: default
 ---
-![](/assets/img/cover.png)
+![](/assets/img/andrew-harmel-law.png)
 The role of software architect is evolving. There is too much to know and too many places to be.
 
 "Facilitating Software Architecture" describes another way to practice architecture driven by decentralized and empowering decision-making techniques. This collaborative, decentralized mindset, propelled by a simple set of enabling constraints and arranged according to some core principles, allows us all to ‘do’ architecture and build the best systems we’ve ever experienced. Systems which we’re all proud of, and that are a joy to work with.
