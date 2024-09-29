@@ -4,13 +4,14 @@
 
 layout: default
 ---
-![](/assets/img/andrew-harmel-law.png)
 The role of software architect is evolving. There is too much to know and too many places to be.
 
-"Facilitating Software Architecture" describes another way to practice architecture driven by decentralized and empowering decision-making techniques. This collaborative, decentralized mindset, propelled by a simple set of enabling constraints and arranged according to some core principles, allows us all to ‘do’ architecture and build the best systems we’ve ever experienced. Systems which we’re all proud of, and that are a joy to work with.
+"Facilitating Software Architecture" by Andrew Harmel-Law describes another way to practice architecture driven by decentralized and empowering decision-making techniques. This collaborative, decentralized approach and mindset, propelled by a simple set of enabling constraints and arranged according to some core principles, allows everyone to ‘do’ architecture and build the best systems we’ve ever experienced. Systems which we’re all proud of, and that are a joy to work with.
+
+![](/assets/img/andrew-harmel-law.png)
 
 # Praise for the first edition
-"Controversially, I don't believe that "everyone can do architecture". Architecture is not a skill demonstrated by one individual. Architecture is the orchestration of practices that generate systemic support for thinking well together about software systems. In this book, Andrew tells us what those practices are, why they matter and how to adopt them. Read the book. Prove me wrong." -- Diana Montalion, Systems architect, Mentrix founder, author of Learning Systems Thinking
+"Controversially, I don't believe that "anyone can do architecture". Architecture is not a skill demonstrated by one individual. Architecture is the orchestration of practices that generate systemic support for thinking well together about software systems. In this book, Andrew tells us what those practices are, why they matter, and how to adopt them. Read the book. Prove me wrong." -- Diana Montalion, Systems architect, Mentrix founder, author of Learning Systems Thinking
 
 "Architecture for fast flow needs both 'decentralized deciding, and fast feedback at scale' and this book shows you how to navigate this vital sociotechnical approach. This book provides a coherent, easy-to-follow guide for everyone. Highly recommended." -- Matthew Skelton, co-author of 'Team Topologies'
 
