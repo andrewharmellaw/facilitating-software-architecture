@@ -8,29 +8,15 @@
 TBC
 
 ## Context
-These are new service(s).
+![CONTEXT-DIAGRAM-1-0](https://github.com/user-attachments/assets/caf09843-8348-4471-bfa4-18ee1f2c9ac5)
+Context diagram, v1.0: A “context map” showing the three bounded contexts in play, key entities, and relationships
 
-Existing services are Spring Boot Microservices architecture running on Java 1.8 and Linux (Red Hat Enterprise Linux) VMs.
+We are creating a new set of payment and subscription processing services to enhance our market offering. Our only consumer at the moment is the in-house Order Management System, though we hope there will be other consumers in the future. 
 
-We support one-off payments AND recurring payments/subscriptions.	
+To avoid PCI compliance, we consume a third-party Payment Services Provider. 
+Our new services are backend only. All consumers will provide their own screens leading up to the payment. Payment screens come from the Payment Gateway. 
 
-We don’t want to be PCI compliant—don’t handle financial information.
-
-Actual payment services (debit/credit transactions and setup of recurring payments) will be provided by a third-party payment services provider.
-
-Services are “white-labelable.” Shared Payment Services will be backend only—screens to be provided by companies consuming the services, e.g., ecommerce checkout journeys or from the payment gateway itself.
-
-This third-party payment services provider might change in the future.
-
-Shared Payment Services store, manage, and publish payment and subscription info to other business systems (CRM, data warehouse, etc.).
-
-We don’t want the customer to have to worry about the fact there is a third-party payment provider; that’s our internal decision.
-
-Fail in favor of the customer.
-
-How do we ensure we never have two active mandates in place at the same time for a single customer?
-
-How do we ensure the customer always has a valid subscription mandate in place?
+The riskiest part of subscriptions is when bank details are changed: the Payment Provider API requires separate REST calls to cancel, create, and activate mandates. It is essential that clients are never double-billed for subscriptions but also that we don’t give products away for free unnecessarily.
 
 ## Options Considered
 
