@@ -1,4 +1,4 @@
-# ADR-003— Changing subscription payment details
+# ADR-003 — How do we handle subscription changes so the customer isn’t mischarged?
 
 * Status: Draft
 * Date: 2023-10-28
