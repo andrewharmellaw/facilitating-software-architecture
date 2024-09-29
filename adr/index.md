@@ -1,7 +1,7 @@
 # Architectural Decision Records from Facilitating Software Architecture
 
 ## ADR Template from the Book
-The [ADR template(adr-template.md)] from the book.
+The [ADR template](adr-template.md) from the book.
 
 ## Examples from the Book
 Chapter 6 of [Facilitating Software Architecture](https://facilitatingsoftwarearchitecture.com/) by Andrew Harmel-Law has two example Architectural Decision Records (ADRs). 
