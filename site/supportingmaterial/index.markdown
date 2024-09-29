@@ -23,8 +23,7 @@ Lorem ipsum...
 * [Alternative Advice Forum Flavours](/alternative-advice-forum-flavors/)
 * [An example AAF Terms of Reference](https://github.com/andrewharmellaw/facilitating-software-architecture/blob/main/adviceforum/terms-of-reference.md)
 * An example AAF Invitation
-* An example AAF Standing Agenda
-* AAF Frequently Asked Questions
+* [An example AAF Standing Agenda](/aaf-standing-agenda-example/)
 
 ### Chapter 10 - Collectively-Sourced Architectural Principles
 * [Alternative Architectural Principle Flavours](/alternative-architectural-principle-flavors/)
