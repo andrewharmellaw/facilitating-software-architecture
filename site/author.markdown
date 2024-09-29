@@ -8,7 +8,7 @@ redirect_from: /author/
 # About Andrew Harmel-Law
 ![Andrew Harmel-Law, the author of Facilitating Software Architecture giving a talk at JFokus, Stockholm, in 2020](/assets/img/andrew-harmel-law.png)
 
-A Tech Principal at [Thoughtworks](https://www.thoughtworks.com), I specialise in Java / JVM technologies, agile delivery, build tools and automation, and domain driven design. I'm experienced across the software development lifecycle and in many sectors. 
+I'm a Tech Principal at [Thoughtworks](https://www.thoughtworks.com), specializing in Java / JVM technologies, agile delivery, build tools and automation, and domain driven design. I'm experienced across the software development lifecycle and in many sectors. 
 
 I'm also an [author and trainer](https://www.oreilly.com/pub/au/8117) for O'Reilly. I've written one [book about facilitating software architecture](/book/) and one [chapter about implementing the Accelerate/DORA four key metrics](https://learning.oreilly.com/library/view/software-architecture-metrics/9781098112226/). I also run regular online trining sessions in [Domain-Drive Design (First Steps)](https://learning.oreilly.com/live-events/domain-driven-design-first-steps/0636920436867/) and [Archietcture Decision Making by Example](https://learning.oreilly.com/live-events/architecture-decision-making-by-example/0636920080767/0642572003571/).
 
