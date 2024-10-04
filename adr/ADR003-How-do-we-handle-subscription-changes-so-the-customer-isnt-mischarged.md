@@ -18,17 +18,23 @@ To avoid having to be PCI compliant, we consume a third-party Payment Services P
 The riskiest part of subscriptions is when bank details are changed: the Payment Provider API requires separate REST calls to cancel, create, and activate mandates. It’s essential that clients are never double-billed for subscriptions but also that we don’t give products away for free.
 
 ## Options Considered
-  1. (NEW OPTION) Create, then cancel, then activate mandates. Async retries if “cancel” or “activate” fails.
+  1. (SELECTED) Create, then cancel, then activate mandates. Async retries if “cancel” or “activate” fails.
+  1. Cancel, then create and activate mandates. Async retries if “activate” fails.
+  1. Cancel, then create and activate mandates.
+  1. Create and activate, then cancel mandates.
+
+## Consequences
+  1. (SELECTED) Create, then cancel, then activate mandates. Async retries if “cancel” or “activate” fails.
 ![CANCEL-THEN-CREATE-ASYNC-RETRIES-1-0](https://github.com/user-attachments/assets/b43f8368-6210-4a21-ab6d-6c1794bc3554)
 Sequence diagram, v1.0: Create, then cancel, then activate
 
-      1. “Create” call is only one, which contains PCI data, and if this fails, we can tell the customer immediately.
-      1. Failures in “cancel” and “activate” calls can be retried async without any PCI data, ensuring there is always an active mandate.
-      1. Async retries can exponentially back off, reducing API usage costs without making the customer wait.
-      1. All these key transactions can be monitored.
-      1. Risk of having no active mandate when a payment isn’t entirely eliminated. Mandate creation failure can be flagged to customers immediately.
-      1. Doesn’t lose the company money.
-  1. (DESELECTED) Cancel, then create and activate mandates — async retries if “activate” fails.
+      1. Selected because the “create” call is the only one that contains PCI data, and if this fails, we can tell the customer immediately.
+      1. Selected because failures in “cancel” and “activate” calls can be retried async without any PCI data, ensuring there is always an active mandate.
+      1. Selected becasuse async retries can exponentially back off, reducing API usage costs without making the customer wait.
+      1. Selected because all these key transactions can be monitored.
+      1. Selected despite the risk of having no active mandate when a payment isn’t entirely eliminated. Mandate creation failure can be flagged to customers immediately.
+      1. Selected because it doesn’t lose the company money.
+  1. Cancel, then create and activate mandates — async retries if “activate” fails.
 ![CANCEL-THEN-CREATE-ASYNC-RETRIES-1-0](https://github.com/user-attachments/assets/12c2a78b-4631-4d5b-a5f0-8eea776c9d37)
 Sequence diagram, v1.0: Cancel, then create (with async retries)
 
