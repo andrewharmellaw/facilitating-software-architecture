@@ -11,12 +11,12 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    <link rel="shortcut icon" type="image/png" href="{{ "/assets/img/favicon.png"  | absolute_url }}">
   </head>
   <body>
     <div class="wrapper">
       <header>
         <!--h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1-->
-        <link rel="shortcut icon" type="image/png" href="{{ "/assets/img/favicon.png"  | absolute_url }}">
         {% if site.logo %}
           <a href="/"><img src="{{site.logo | relative_url}}" alt="Facilitating Software Architecture book cover showing a green female and a red male European White-Winged Crossbill." /></a>
         {% endif %}
