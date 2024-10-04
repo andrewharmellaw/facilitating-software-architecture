@@ -40,3 +40,10 @@ Create and activate, then cancel sequence diagram, v1.0
       1. Risks having two active mandates (old and new) if the cancellation fails. This is “fail in favor of the company.” How frequently do we think this will happen?
 
 ## Advice
+* Monira R., Product Manager
+* Hanna A., Infra team
+* Rebecca F., UX
+* Vanessa F., Tech Lead from the Order Management team
+* Pete H., InfoSec
+* Alina B., Architect
+
