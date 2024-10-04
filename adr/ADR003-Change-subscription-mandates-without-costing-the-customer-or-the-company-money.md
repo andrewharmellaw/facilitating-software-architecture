@@ -1,7 +1,7 @@
 # ADR-003 — Change subscription mandates without costing the customer or the company money
 
-* Status: Proposed
-* Date: 2023-11-01
+* Status: Accepted
+* Date: 2023-11-04
 * Authors: Andrew Harmel-Law and Gayathri Thiyagarajan
 
 ## Decision
