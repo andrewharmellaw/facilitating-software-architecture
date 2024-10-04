@@ -20,18 +20,23 @@ The riskiest part of subscriptions is when bank details are changed: the Payment
 
 ## Options Considered
 NOTE: How will we recover from failures? Manually or automatically?
-  1. Cancel the existing mandate, then create and activate the new one.
-      1. Blocks returning to the client until all three requests succeed.
-      1. Risk of having no mandate in place if the creation or activation fails. This is “fail in favor of the customer” but might cost the company money.
-      1. Missing or inactive mandates could be fixed with a customer-support process.
-  1. Create and activate the new mandate, then cancel the old one.
-      1. Blocks user journey for initial attempts, then returns.
-      1. Doesn’t lose the company money.
-      1. Blocks returning to the client until all three requests succeed.
-      1. Risks having two active mandates (old and new) if the cancellation fails. This is “fail in favor of the company.” How frequently do we think this will happen?
-  1. Cancel the existing mandate, then create and activate the new one, async retries if “activate” fails.
-      1. Same as option 1, but with async retries to “activate.”
-      1. Blocks for initial attempts, then returns.
+  1. Cancel, then create and activate mandates — async retries if “activate” fails.
+![CANCEL-THEN-CREATE-ASYNC-RETRIES-1-0](https://github.com/user-attachments/assets/12c2a78b-4631-4d5b-a5f0-8eea776c9d37)
+Cancel, then create (with async retries) sequence diagram, v1.0
+
+      1. Blocks for first few attempts at activation, then returns to client.
       1. Risk of having no mandate is virtually eliminated.
+  1. Cancel, then create and activate mandates.
+      1. Same as option 1, but without the async “activate” retries.
+      1. Blocks returning to the client until all three requests succeed.
+      1. Risk of having no mandate if the creation fails. This is “fail in favor of the customer” but might cost the company money.
+      1. Missing or inactive mandates could be fixed with manual support processes.
+  1. Create and activate, then cancel mandates.
+![CREATE-AND-ACTIVATE-THEN-CANCEL-1-0](https://github.com/user-attachments/assets/4444cc85-3819-4792-9b81-a1fb49b67435)
+Create and activate, then cancel sequence diagram, v1.0
+
+      1. Blocks returning to the client until all three requests succeed.
+      1. Doesn’t lose the company money.
+      1. Risks having two active mandates (old and new) if the cancellation fails. This is “fail in favor of the company.” How frequently do we think this will happen?
 
 ## Advice
