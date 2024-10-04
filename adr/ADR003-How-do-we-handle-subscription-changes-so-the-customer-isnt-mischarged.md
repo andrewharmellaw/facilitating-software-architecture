@@ -8,36 +8,45 @@
 TBC
 
 ## Context
-![CONTEXT-DIAGRAM-1-0](https://github.com/user-attachments/assets/caf09843-8348-4471-bfa4-18ee1f2c9ac5)
-Context diagram, v1.0: A “context map” showing the three bounded contexts in play, key entities, and relationships
+![CONTEXT-DIAGRAM-2-0](https://github.com/user-attachments/assets/fbe1e089-3e83-4275-a576-cd0580db4f62)
+Context diagram, v2.0: “Context map” showing the three bounded contexts in play, key entities, and interactions. Note the single integration with the Order Management systems and the trio of integrations with the Payment Gateway.
 
-We are creating a new set of payment and subscription processing services to enhance our market offering. Our only consumer at the moment is the in-house Order Management System, though we hope there will be other consumers in the future. 
+We are creating a new set of payment and subscription pProcessing services to enhance our market offering. Our only consumer at the moment is the in-house Order Management System, though there may be other consumers in the future. All consumers will provide their own frontends. The new services must hide the complexity of the Payment Gateway API.
 
-To avoid PCI compliance, we consume a third-party Payment Services Provider. 
-Our new services are backend only. All consumers will provide their own screens leading up to the payment. Payment screens come from the Payment Gateway. 
+To avoid having to be PCI compliant, we consume a third-party Payment Services Provider, but they don’t meet their SLAs. Conversations are currently underway with alternative suppliers.
 
-The riskiest part of subscriptions is when bank details are changed: the Payment Provider API requires separate REST calls to cancel, create, and activate mandates. It is essential that clients are never double-billed for subscriptions but also that we don’t give products away for free unnecessarily.
+The riskiest part of subscriptions is when bank details are changed: the Payment Provider API requires separate REST calls to cancel, create, and activate mandates. It’s essential that clients are never double-billed for subscriptions but also that we don’t give products away for free.
 
 ## Options Considered
-NOTE: How will we recover from failures? Manually or automatically?
-  1. (PROVISIONALLY SELECTED) Cancel, then create and activate mandates — async retries if “activate” fails.
-![CANCEL-THEN-CREATE-ASYNC-RETRIES-1-0](https://github.com/user-attachments/assets/12c2a78b-4631-4d5b-a5f0-8eea776c9d37)
-Cancel, then create (with async retries) sequence diagram, v1.0
+  1. (NEW OPTION) Create, then cancel, then activate mandates. Async retries if “cancel” or “activate” fails.
+![CANCEL-THEN-CREATE-ASYNC-RETRIES-1-0](https://github.com/user-attachments/assets/b43f8368-6210-4a21-ab6d-6c1794bc3554)
+Sequence diagram, v1.0: Create, then cancel, then activate
 
-      1. Blocks for first few attempts at activation, then returns to client.
+      1. “Create” call is only one, which contains PCI data, and if this fails, we can tell the customer immediately.
+      1. Failures in “cancel” and “activate” calls can be retried async without any PCI data, ensuring there is always an active mandate.
+      1. Async retries can exponentially back off, reducing API usage costs without making the customer wait.
+      1. All these key transactions can be monitored.
+      1. Risk of having no active mandate when a payment isn’t entirely eliminated. Mandate creation failure can be flagged to customers immediately.
+      1. Doesn’t lose the company money.
+  1. (DESELECTED) Cancel, then create and activate mandates — async retries if “activate” fails.
+![CANCEL-THEN-CREATE-ASYNC-RETRIES-1-0](https://github.com/user-attachments/assets/12c2a78b-4631-4d5b-a5f0-8eea776c9d37)
+Sequence diagram, v1.0: Cancel, then create (with async retries)
+
+      1. Blocks for first few (configurable) attempts at activation, then returns to client.
+      1. Async retries ensure activation after the fact.
       1. Risk of having no mandate is virtually eliminated.
   1. Cancel, then create and activate mandates.
-      1. Same as option 1, but without the async “activate” retries.
-      1. Blocks returning to the client until all three requests succeed.
-      1. Risk of having no mandate if the creation fails. This is “fail in favor of the customer” but might cost the company money.
-      1. Missing or inactive mandates could be fixed with manual support processes.
+      1. Same as option 2, but without the async “activate” retries.
+      1. Blocks returning to the client until all requests complete.
+      1. Risk of having no mandate if the creation or activation fails. This is “fail in favor of the customer” but might cost the company money. Chances of Payment Provider failure based on previous experience are not insignificant.
+      1. Missing mandates would be fixed with a customer support process as we can’t store bank details.
   1. Create and activate, then cancel mandates.
 ![CREATE-AND-ACTIVATE-THEN-CANCEL-1-0](https://github.com/user-attachments/assets/4444cc85-3819-4792-9b81-a1fb49b67435)
-Create and activate, then cancel sequence diagram, v1.0
+Sequence diagram, v1.0: Create and activate, then cancel
 
       1. Blocks returning to the client until all three requests succeed.
       1. Doesn’t lose the company money.
-      1. Risks having two active mandates (old and new) if the cancellation fails. This is “fail in favor of the company.” How frequently do we think this will happen?
+      1. This is not “fail in favor of the customer.” Risk of having two active mandates (old and new) if the cancellation fails. Chances of failure based on previous experience are not insignificant.
 
 ## Advice
 * How quickly will we be able to respond to the customer when there is a failure at the Payment Provider? How confident can we be that they will never be double-charged? (Monira R., Product Manager)
