@@ -6,7 +6,7 @@ layout: default
 redirect_from: /alternative-architectural-principle-flavors/
 ---
 # Alternative Architectural Principle Flavors
-What I described in [Chapter 10: Collectively Sourced architectural Principles](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch10.html) is only one way of working with principles. I arrived at it by research, experiment, trial and error, and learning from my mistakes. It is the approach to creating and using principles that I find most useful. This is not to say that you need to go about things the exact same way. As I suggested in the previous chapter, you might not even need explicit principles, at least not to begin with.
+What I described in [Chapter 10: Collectively Sourced Architectural Principles](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch10.html) is only one way of working with principles. I arrived at it by research, experiment, trial and error, and learning from my mistakes. It is the approach to creating and using principles that I find most useful. This is not to say that you need to go about things the exact same way. As I suggested in the previous chapter, you might not even need explicit principles, at least not to begin with.
 
 Alternatively, a change in organizational vision and goals might be so significant that it leads to a very specific strategic direction, one which ought to be captured immediately not only as principles, but also in the form of ADRs.
 
