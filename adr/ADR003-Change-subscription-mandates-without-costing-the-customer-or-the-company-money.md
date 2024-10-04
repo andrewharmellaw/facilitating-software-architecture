@@ -1,11 +1,15 @@
-# ADR-003 — How do we handle subscription changes so the customer isn’t mischarged?
+# ADR-003 — Change subscription mandates without costing the customer or the company money
 
 * Status: Proposed
 * Date: 2023-11-01
 * Authors: Andrew Harmel-Law and Gayathri Thiyagarajan
 
 ## Decision
-TBC
+Mandate changes will be handled by Payment Gateway calls in the following order: (1) create new, (2) cancel existing, and (3) activate new (Option 1).
+
+Failures in mandate creation will immediately be flagged to the customer. Failures in mandate cancellation or activation will be retried asynchronously, backing off exponentially to balance the time out of sync with the cost of API calls to the Payment Gateway. Customers will be informed by email when this completes. All mandate change steps will be logged for monitoring.
+
+A single “change subscription mandate” endpoint will be exposed to Subscription service consumers.
 
 ## Context
 ![CONTEXT-DIAGRAM-2-0](https://github.com/user-attachments/assets/fbe1e089-3e83-4275-a576-cd0580db4f62)
