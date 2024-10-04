@@ -40,10 +40,10 @@ Create and activate, then cancel sequence diagram, v1.0
       1. Risks having two active mandates (old and new) if the cancellation fails. This is “fail in favor of the company.” How frequently do we think this will happen?
 
 ## Advice
-* Monira R., Product Manager
-* Hanna A., Infra team
-* Rebecca F., UX
-* Vanessa F., Tech Lead from the Order Management team
-* Pete H., InfoSec
-* Alina B., Architect
+* How quickly will we be able to respond to the customer when there is a failure at the Payment Provider? How confident can we be that they will never be double-charged? (Monira R., Product Manager)
+* We have some uptime stats on the third-party Payment Provider’s service. It’s not great. They have at least one failure a month, frequently losing service for more than five minutes at a time. (Hanna A., Infra team)
+* How much will we be able to tell the customer about what’s going on when Payment Provider failures happen? What information will we be able to share with them, and can we reassure them that their experience (and bank balance) will not be impacted? (Rebecca F., UX)
+* Will this complicate our team’s integration with your payment and subscription processing service? Will you be able to hide this from us? Also, have you thought about the retry schedule for the async retries? (Vanessa F., Tech Lead from the Order Management team)
+* We need to ensure that we don’t store any PCI data (card details, etc.). See this [CFR]. (Pete H., Infosec)
+* Can you update the diagram in the Context section to show there are three separate calls to the Payment Gateway? Does the order of API calls always have to be “create,” then “activate”? Can you “cancel” in the middle? Being able to rely less on chained API calls makes us more robust. Also, we pay per API call to the third-party Payment Provider, and they are very good at collecting this fee, whether their service works or not. Exponential backoff schedules are good for this. Also think about observability (see this [CFR]) and make it easy to keep track of failed (and hopefully auto-recovered) subscription changes. (Alina B., Architect)
 
