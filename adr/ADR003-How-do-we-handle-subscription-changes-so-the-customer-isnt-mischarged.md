@@ -19,5 +19,19 @@ Our new services are backend only. All consumers will provide their own screens 
 The riskiest part of subscriptions is when bank details are changed: the Payment Provider API requires separate REST calls to cancel, create, and activate mandates. It is essential that clients are never double-billed for subscriptions but also that we don’t give products away for free unnecessarily.
 
 ## Options Considered
+NOTE: How will we recover from failures? Manually or automatically?
+  1. Cancel the existing mandate, then create and activate the new one.
+      1. Blocks returning to the client until all three requests succeed.
+      1. Risk of having no mandate in place if the creation or activation fails. This is “fail in favor of the customer” but might cost the company money.
+      1. Missing or inactive mandates could be fixed with a customer-support process.
+  1. Create and activate the new mandate, then cancel the old one.
+      1. Blocks user journey for initial attempts, then returns.
+      1. Doesn’t lose the company money.
+      1. Blocks returning to the client until all three requests succeed.
+      1. Risks having two active mandates (old and new) if the cancellation fails. This is “fail in favor of the company.” How frequently do we think this will happen?
+  1. Cancel the existing mandate, then create and activate the new one, async retries if “activate” fails.
+      1. Same as option 1, but with async retries to “activate.”
+      1. Blocks for initial attempts, then returns.
+      1. Risk of having no mandate is virtually eliminated.
 
 ## Advice
