@@ -1,7 +1,7 @@
 # ADR-003 — How do we handle subscription changes so the customer isn’t mischarged?
 
-* Status: Draft
-* Date: 2023-10-28
+* Status: Proposed
+* Date: 2023-11-01
 * Authors: Andrew Harmel-Law and Gayathri Thiyagarajan
 
 ## Decision
@@ -20,7 +20,7 @@ The riskiest part of subscriptions is when bank details are changed: the Payment
 
 ## Options Considered
 NOTE: How will we recover from failures? Manually or automatically?
-  1. Cancel, then create and activate mandates — async retries if “activate” fails.
+  1. (PROVISIONALLY SELECTED) Cancel, then create and activate mandates — async retries if “activate” fails.
 ![CANCEL-THEN-CREATE-ASYNC-RETRIES-1-0](https://github.com/user-attachments/assets/12c2a78b-4631-4d5b-a5f0-8eea776c9d37)
 Cancel, then create (with async retries) sequence diagram, v1.0
 
