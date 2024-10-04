@@ -15,6 +15,9 @@ Lorem ipsum...
 * [Starter ADR template](/adr-template/)
 * [The first example ADR - "Shorten Inventory IDs with Nanoid"](/first-adr-example/)
 * [The second example ADR - "Change subscription mandates without costing the customer or the company money" (with change history)](/second-adr-example/) (NOTE: the file name changes. You can link to these subsequent change sets from this first set.)
+     * When it's named ["ADR003-Changing-subscription-payment-details"](https://github.com/andrewharmellaw/facilitating-software-architecture/commits/fcbafdaea65e64a1a3dd1d344a30b95ac08e28ef/adr/ADR003-Changing-subscription-payment-details.md?browsing_rename_history=true&new_path=adr/ADR003-Change-subscription-mandates-without-costing-the-customer-or-the-company-money.md&original_branch=example-adr-changesets)
+     * When it's named [ADR003-How-do-we-handle-subscription-changes-so-the-customer-isnt-mischarged](https://github.com/andrewharmellaw/facilitating-software-architecture/commits/0453a6b2c55166a320b5dbd5f0ca197085641ee5/adr/ADR003-How-do-we-handle-subscription-changes-so-the-customer-isnt-mischarged.md?browsing_rename_history=true&new_path=adr/ADR003-Change-subscription-mandates-without-costing-the-customer-or-the-company-money.md&original_branch=example-adr-changesets)
+     * When its named ["ADR003-Change-subscription-mandates-without-costing-the-customer-or-the-company-money"](https://github.com/andrewharmellaw/facilitating-software-architecture/commits/example-adr-changesets/adr/ADR003-Change-subscription-mandates-without-costing-the-customer-or-the-company-money.md)
 
 ### Chapter 7 - Replacing Hierarchy With Decentralized Trust
 * [The BossaNOVA approach to org design experimentation](/bossanova-experimentation/)
