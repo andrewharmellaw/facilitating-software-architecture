@@ -5,7 +5,9 @@
 layout: default
 ---
 # Supporting Material for Facilitating Software Architecture
-Lorem ipsum...
+It turns out that when you write a book about architectural practice in the sociotechnical world there is a LOT that can be said. Not all of that made its way into the book, and instead has found safe harour here. 
+
+The links in this page are structured by chapter, and many of the links in the book connect to these artefacts too. As I collate further supplementary things, I'll put them here for everyones benefit too. And if you have something you thikn others might benefit from, head over to the community and/or drop me a line at <info@facilitatingsoftwarearchitecture.com>.
 
 ## Worked Examples and Additional Material From the Book
 ### Chapter 4 - The Architecture Advice Process
