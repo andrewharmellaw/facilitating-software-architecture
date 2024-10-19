@@ -30,4 +30,4 @@ With this book, you will:
 
 
 ## Facilitating Software Architecture Community
-My hope is that a community will grow up around this, and related approaches to practicing architecture. Have a look at the [community page](./supportingmaterial/) to get involved.
+My hope is that a community will grow up around this, and related approaches to practicing architecture. Have a look at the [community page](./community/) to get involved.
