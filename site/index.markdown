@@ -7,7 +7,7 @@ layout: default
 # Facilitating Software Architecture
 The role of software architect is evolving. There is too much to know and too many places to be.
 
-"Facilitating Software Architecture" by Andrew Harmel-Law describes another way to practice architecture driven by decentralized and empowering decision-making techniques. This collaborative, decentralized approach and mindset, propelled by a simple set of enabling constraints and arranged according to some core principles, allows everyone to ‘do’ architecture and build the best systems we’ve ever experienced. Systems which we’re all proud of, and that are a joy to work with.
+_Facilitating Software Architecture_ is a new book by by Andrew Harmel-Law that describes another way to practice architecture driven by decentralized and empowering decision-making techniques. This collaborative, decentralized approach and mindset, propelled by a simple set of enabling constraints and arranged according to some core principles, allows everyone to ‘do’ architecture and build the best systems we’ve ever experienced. Systems which we’re all proud of, and that are a joy to work with.
 
 ![](/assets/img/andrew-harmel-law.png)
 
@@ -30,4 +30,4 @@ With this book, you will:
 
 
 ## Facilitating Software Architecture Community
-Lorem ipsum ...
+My hope is that a community will grow up around this, and related approaches to practicing architecture. Have a look at the [community page](./supportingmaterial/) to get involved.
