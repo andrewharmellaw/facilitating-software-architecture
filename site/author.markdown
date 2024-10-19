@@ -17,6 +17,6 @@ What motivates me is the humane delivery and sustainable evolution of large-scal
 I have a great passion for open source software and its communities. I have been involved with OSS to a greater or lesser extent since my career began; as a user, contributor, expert group member, or paid advocate - most notably as one of the 
 [Jenkins JobDSL](https://plugins.jenkins.io/job-dsl/) originators. 
 
-I enjoy sharing my experience as much as possible. This sharing is not only seen in my formal consulting engagements, but also informally through mentoring, [blog posts](https://andrewharmellaw.github.io/), [conferences](https://www.youtube.com/channel/UCa2Mt-TLoPDzemsyhdmCF2w) (speaking and organising), and open-sourcing my code.
+I enjoy sharing my experience as much as possible. This sharing is not only seen in my formal consulting engagements, but also informally through mentoring, [blog posts](https://andrewharmellaw.github.io/), [conferences](https://www.youtube.com/channel/UCa2Mt-TLoPDzemsyhdmCF2w) (keynoting, speaking and organising), and open-sourcing my code.
 
 If you want to reach out to me you can try [LinkedIn](https://www.linkedin.com/in/andrewharmellaw/), [Mastodon](https://twit.social/@ahl), [Bluesky](https://bsky.app/profile/andrewhl.bsky.social), or (if you must) [Twitter](https://twitter.com/al94781).
