@@ -12,6 +12,8 @@ The role of software architect is evolving. There is too much to know and too ma
 ![](/assets/img/andrew-harmel-law.png)
 
 ## Praise for the first edition
+_"Andrew groks architecture. Here is a book full of actionable wisdom, founded on broad experience, illuminated by a well-written narrative, and shaped in a manner that gets to the essence of what architecture is, what it is not, and how to make it real."_ -- **Grady Booch**
+
 _"Controversially, I don't believe that "everyone can do architecture". Architecture is not a skill demonstrated by one individual. Architecture is the orchestration of practices that generate systemic support for thinking well together about software systems. In this book, Andrew tells us what those practices are, why they matter, and how to adopt them. Read the book. Prove me wrong."_ -- **Diana Montalion, Systems architect, Mentrix founder, author of Learning Systems Thinking**
 
 _"Architecture for fast flow needs both 'decentralized deciding, and fast feedback at scale' and this book shows you how to navigate this vital sociotechnical approach. This book provides a coherent, easy-to-follow guide for everyone. Highly recommended."_ -- **Matthew Skelton, co-author of 'Team Topologies'**
