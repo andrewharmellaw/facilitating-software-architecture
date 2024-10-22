@@ -34,7 +34,7 @@ The links in this page are structured by chapter, and many of the links in the b
 * [Alternative Architectural Principle Flavours](/alternative-architectural-principle-flavors/)
 
 ### Chapter 11 - Using a Technology Radar
-* [An example Technology Radar](/radar-example])
+* An example Technology Radar: [Spreadsheet data](/radar-example-spreadsheet) and [published radar](/radar-example-published).
 * [Alternative Technology Radar Flavours](/alternative-tech-radar-flavors/).
 
 ### Chapter 14 - Variability and the Interconnectedness of Decisions
