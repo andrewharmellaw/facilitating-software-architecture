@@ -11,10 +11,10 @@ The links in this page are structured by chapter, and many of the links in the b
 
 ## Worked Examples and Additional Material From the Book
 ### Preface
-* The original social media thread on ["Anarchistic Architecture"]()
+* The original social media thread on ["Anarchistic Architecture"](./../assets/pdf/Twitter-Thread-Anarchistic-Architecture.pdf)
 
 ### Chapter 2 - To Practice Architecture is to Decide
-* Social media thread ["Thoughts on the anthropology of software (power and freedom special edition)"]()
+* Social media thread ["Thoughts on the anthropology of software (power and freedom special edition)"](./../assets/pdf/Twitter-Thread-Anthropology-of-Software-Power-and-Freedom.pdf)
 
 ### Chapter 4 - The Architecture Advice Process
 * Architecture Advice Process One-Pager
