@@ -21,7 +21,7 @@
 title: Facilitating Software Architecture
 email: info@facilitatingsoftwarearchitecture.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where the site description goes.
+  The website accompanying Facilitating Software Architecture, by Andrew Harmel-Law.
 domain: facilitatingsoftwarearchitecture.com
 url: https://facilitatingsoftwarearchitecture.com # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
