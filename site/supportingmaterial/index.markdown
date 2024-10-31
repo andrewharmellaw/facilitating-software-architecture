@@ -17,7 +17,7 @@ The links in this page are structured by chapter, and many of the links in the b
 * Social media thread ["Thoughts on the anthropology of software (power and freedom special edition)"](./../assets/pdf/Twitter-Thread-Anthropology-of-Software-Power-and-Freedom.pdf)
 
 ### Chapter 4 - The Architecture Advice Process
-* Architecture Advice Process One-Pager
+* [Architecture Advice Process One-Pager](/advice-process-one-pager/)
 
 ### Chapter 6 - Architecural Decision Records
 * [Starter ADR template](/adr-template/)
