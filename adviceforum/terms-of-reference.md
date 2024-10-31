@@ -1,7 +1,7 @@
 # An Example Architecture Advice Forum Terms of Reference
 
 ## Background
-The Architecture Advice Forum (AAF) is a key part of the decentralized approach to lightweight architectural governance at [YOUR_COMPANY].
+The Architecture Advice Forum (AAF) is a key part of the decentralized approach to lightweight architectural governance at [YOUR_COMPANY]. A visual representation of its place in software delivery and architectural governance can be found [here](https://facilitatingsoftwarearchitecture.com/advice-process-one-pager/)
 
 ## Objectives and Benefits
 The Advice Forum provides a cross-[YOUR_COMPANY] forum for sharing and offering advice on in-flight architectural decisions as per the [Architectural Advice Process](LINK-TO-DEFINITION). This will be an efficient way to provide the widest awareness of, and input into, these decisions, as well as providing a learning forum for all software teams, and beyond.
