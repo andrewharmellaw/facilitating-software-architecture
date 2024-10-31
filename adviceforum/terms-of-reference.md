@@ -19,9 +19,9 @@ There is a risk that key voices in this session will not be heard and therefore 
 ## Assumptions and Dependencies
 In-flight decisions will be written up as Architectural Decision Records (ADRs) before sharing at the Advice Forum. All advice provided in the Advice Forum will be recorded in the relevant ADR. Advice may also be gathered outside the Advice Forum, but will still be recorded in the relevant ADR. Deciders will take decisions after Advice Forum sessions.  
 
-Roles
+## Roles
 Attendance will be open to all, as will associated collaboration channels and wiki spaces. Standing invitees will be representatives from all software delivery teams (at least dev leads or delegates but also QAs, POs etc.), representatives from Infra, UX, Product, Data, Compliance, Risk Management and Infosec. The Director of Engineering, or a nominated delegate will convene AAFs.
 
-Deliverables
+## Deliverables
 * [Minutes](LINK-TO-THIS) - prepared ahead of the Advice Forum listing all ADRs to discuss as well as any other business attendees wish to raise. Also records any actions arising. 
 * [ADR library](LINK-TO-THIS) - showing all the ADRs brought to the Advice Forum and their statuses. 
