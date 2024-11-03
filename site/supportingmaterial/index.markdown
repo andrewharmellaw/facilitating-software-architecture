@@ -53,8 +53,17 @@ The links in this page are structured by chapter, and many of the links in the b
 ### Chapter 16 - On Leadership
 * [Why “Autonomous” Teams Don’t Realize Their Full Acountabilities](/autonomous-teams-and-accountabilities/).
 
-## Talks About Facilitating Software Architecture
-Lorem ipsum...
+## Talks, Panels and Interviews About Facilitating Software Architecture
+* [A Commune in the Ivory Tower](https://www.youtube.com/watch?v=fNIztIQWa04&ab_channel=DevoxxUK) - an introduction to the Architecture Advice Process with adoption tips
+* [How We Decide](https://www.youtube.com/watch?v=qvV8GnIf974&ab_channel=DevoxxUK) - an overview of the process of deciding, with an assessment of the various approaches to deciding in groups (as described in chapter 3 of the book)
+* [Minimal Viable Alignment (and Why It Matters)](https://www.youtube.com/watch?v=ajbgXzifhFk&ab_channel=CodecampRomania) - an introduction to means of achieveing minimal viable alignment when organizing for flow and self-management. Covers testable cross-functional requirements, actionable tech strategy, and more (as described in chapter 9 of the book)
+* [The End of Ivory Tower Architecture](https://www.podchaser.com/podcasts/happy-path-programming-1451773/episodes/68-the-end-of-ivory-tower-arch-149016095) - Episode 68 of Bruce Eckell and James Ward's Happy Path Programming podcast
+* [LeadDev Bookmarked Podcast](https://www.youtube.com/watch?v=fUumtS6NxtE&ab_channel=LeadDev)
+* [The Architecture Advice Process with Andrew Harmel-Law](https://www.oreilly.com/live-events/software-architecture-hour-the-architecture-advice-process-with-andrew-harmel-law/0636920092589/0636920092588/) - I was a guest on Neal Ford’s O’Reilly Software Architecture Hour on the 23rd July, 2023
+* [The Changing Nature of Architecture](https://www.youtube.com/watch?v=KryXEZbKaSE) - I was a guest’s on Jabe Bloom’s “Platform Thinking” podcast on the 29th June, 2023
+* [InfoQ Architecture Podcast](https://www.infoq.com/podcasts/architecture-advice-process/) - Discussing the architecture advice process with Thomas Betts
+* [(Architectural) Decision Making Gathering](https://virtualddd.com/sessions/85) - I co-convened this 2023 VirtualDDD Open Space and co-keynoted with Diana Montalion with the talk “Architecture over Architects”
+* [The DDD Europe “Everybody” Keynote](https://www.youtube.com/watch?v=FEqGObgM_ZU&ab_channel=NeedsWorkshop) - DDD Europe 2022, with Gayathri Thiyagarajan, Diana Montalion, Mike Rozinsky and Dan Young. ([Miro board](https://miro.com/app/board/uXjVOtHPs7o=/?share_link_id=439337832914) with all the raw data we collected and also the results of our processing.)
 
 ## Additional Material 
 * [Further Reading](/further-reading/) - Links to books mentioned in Facilitating Software Architecure, and more.
