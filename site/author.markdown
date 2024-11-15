@@ -19,4 +19,4 @@ I have a great passion for open source software and its communities. I have been
 
 I enjoy sharing my experience as much as possible. This sharing is not only seen in my formal consulting engagements, but also informally through mentoring, [blog posts](https://andrewharmellaw.github.io/), [conferences](https://www.youtube.com/channel/UCa2Mt-TLoPDzemsyhdmCF2w) (keynoting, speaking and organising), and open-sourcing my code.
 
-If you want to reach out to me you can try [LinkedIn](https://www.linkedin.com/in/andrewharmellaw/), [Mastodon](https://twit.social/@ahl), [Bluesky](https://bsky.app/profile/andrewhl.bsky.social), or (if you must) [Twitter](https://twitter.com/al94781).
+If you want to reach out to me you can try [LinkedIn](https://www.linkedin.com/in/andrewharmellaw/), [Mastodon](https://twit.social/@ahl), [Bluesky](https://bsky.app/profile/andrewhl.bsky.social), or (if you must) [Twitter](https://twitter.com/al94781). You can also email me at info@facilitatingsoftwarearchitecture.com.
