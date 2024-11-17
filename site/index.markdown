@@ -24,7 +24,7 @@ _"Architecture for fast flow needs both 'decentralized deciding, and fast feedba
 
 _"Architecture is something we all care about in software development, but many feel uncomfortable doing it. What Andrew describes in this book is a way to enable all to participate, and it is more important than ever before that we all do."_ -- **Trond Hjorteland, IT Consultant and sociotechnical practitioner**
 
-## What you will learn
+## What you'll learn
 With this book, you will:
 * Understand the new dynamics that affect modern software delivery 
 * Learn a methodology that brings software architecture and development together
