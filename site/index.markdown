@@ -35,7 +35,7 @@ With this book, you will:
 ## Read a sample chapter
 Being aware of the technical landscape and climate that surround you is important for an effective decision process. Decisions benefit from being informed by your colleagues’ and your wider organization’s collective past experiences and future intentions. But such a wealth of technical information can seem difficult both to capture and to manage.
 
-In this [sample chapter (Chapter 11 - "Using a Technology Radar"](./assets/pdf/facilitating_software_architecture_11.pdf), I discuss how the collective intelligence can be distilled into a set of regularly updated guidelines—the fourth alignment mechanism—and used to inform everyone’s future decisions via a fourth supporting element to the advice process: a technology radar that provides a snapshot of the technologies and techniques used in your organization right now.
+In this [sample chapter (Chapter 11 - "Using a Technology Radar")](./assets/pdf/facilitating_software_architecture_11.pdf), I discuss how the collective intelligence can be distilled into a set of regularly updated guidelines—the fourth alignment mechanism—and used to inform everyone’s future decisions via a fourth supporting element to the advice process: a technology radar that provides a snapshot of the technologies and techniques used in your organization right now.
 
 It starts introducing you to the technology radar by giving you a real-life example of how it’s used in Thoughtworks before going on to describe how a technology radar fits into the advice process. It closes by discussing how feedback from using the technology radar in deciding can—and ought to—lead to updates in the radar itself.
 
