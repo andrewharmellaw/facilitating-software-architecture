@@ -24,7 +24,7 @@ Chapter 7 - [Replacing Hierarchy With Decentralized Trust](https://learning.orei
 Chapter 8 - [An Architecture Advice Forum](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch08.html)<br/>
 Chapter 9 - [Testable CFRs and Actionable Tech Strategy](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch09.html)<br/>
 Chapter 10 - [Collectively-Sourced Architectural Principles](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch10.html)<br/>
-Chapter 11 - [Using a Technology Radar](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch11.html) ([Read this as a free sample](./assets/pdf/facilitating_software_architecture_11.pdf))<br/>
+Chapter 11 - [Using a Technology Radar](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch11.html) ([Read as a FREE SAMPLE](./assets/pdf/facilitating_software_architecture_11.pdf))<br/>
 ## Part III - Finding Your Way Through the Decision Landscape
 Chapter 12 - [The Art of Deciding](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch12.html)<br/>
 Chapter 13 - [Tackling Architectural Variability](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch13.html)<br/>
