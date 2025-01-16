@@ -1,6 +1,7 @@
 # ADR00X - [TITLE]
 * Date: e.g., Dec 22, 2022
 * Status: One of [DRAFT]/[PROPOSED]/[ACCEPTED]/[ADOPTED]/[SUPERSEDED]/[EXPIRED]
+* Author: [Author name(s)]
 
 ## Decision
 [A summary of your decision in a few lines.]
