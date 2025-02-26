@@ -6,6 +6,6 @@ layout: default
 redirect_from: /advice-process-one-pager/
 ---
 # Architecture Advice Process One-Pager 
-I get frequent requests for an Advice Process "one picture to rule them all". This is thr current incarnation of that picture, but I'll be iterating on it (and also making an editable, digital version for you to take and make your own.
+I get frequent requests for an Advice Process "one picture to rule them all". This is the current incarnation of that picture, but I'll be iterating on it (and also making an editable, digital version for you to take and make your own.
 
 !["One diagram to rule them all" representation of the advice process, ADRs, supporting elements, and all sitting atop a set of flowing teams and systems architects.](./../assets/img/advice-process-one-pager.png)
