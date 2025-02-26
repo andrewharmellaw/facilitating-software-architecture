@@ -102,3 +102,31 @@
     transform: translateY(-8px) rotate(-45deg);
   }
 }
+
+/* Fancy highlighter hyperlinks */
+.clip-path-highlighter {
+  position: relative;
+  display: inline-block;
+  padding: 0 4px;
+  font-weight: 500;
+}
+
+.clip-path-highlighter::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(134, 239, 172, 0.6); /* green-300 with 60% opacity */
+  z-index: -1;
+  transform: rotate(-1deg);
+  /* Create uneven edges with clip-path */
+  clip-path: polygon(
+    0% 15%, 4% 10%, 8% 5%, 15% 8%, 20% 5%, 
+    /* more points to create uneven top edge */
+    100% 10%, 100% 90%, 95% 95%, 90% 90%, 
+    /* more points to create uneven bottom edge */
+    5% 95%, 0% 90%
+  );
+}
