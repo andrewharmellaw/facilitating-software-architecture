@@ -25,6 +25,11 @@
   transition: all 0.3s ease-in-out;
 }
 
+/* Get the book section */
+.get-the-book {
+  display: block;
+}
+
 /* Mobile styles */
 @media screen and (max-width: 768px) {
   .menu-toggle {
