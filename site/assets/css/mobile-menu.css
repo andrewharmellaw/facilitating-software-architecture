@@ -64,6 +64,11 @@
     width: 100%;
   }
 
+  /* Hide the desktop-side-nav section on mobile */
+  .desktop-side-nav {
+      display: none;
+  }
+  
   /* Hide get the book section on mobile */
   .get-the-book {
     display: none;
