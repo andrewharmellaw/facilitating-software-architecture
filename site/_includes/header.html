@@ -20,6 +20,20 @@
         </ul>
       </nav>
 
+      <!-- Sidebar Nav - visible only on desktop) -->
+      <div class="desktop-side-nav">
+        {% if site.logo %}
+          <a href="/"><img src="{{site.logo | relative_url}}" alt="Facilitating Software Architecture book cover showing a green female and a red male European White-Winged Crossbill." /></a>
+        {% endif %}        
+        <p>
+          <h3><a href="/book/">About the Book</a></h3>
+          <h3><a href="/author/">About the Author</a></h3>
+          <h3><a href="/supportingmaterial/">Supporting Material</a></h3>
+          <h3><a href="/community/">Community</a></h3>
+        </p>
+        <br/>
+      </div>
+
       <!-- "Get the book section" - visible only on desktop -->
       <div class="get-the-book">
         {% if site.show_downloads %}
