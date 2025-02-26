@@ -13,11 +13,10 @@
       <!-- Navigation that will be toggled on mobile -->
       <nav id="header-nav" class="header-nav">
         <ul class="nav-list">
-          {% for page in site.pages %}
-            {% if page.title and page.title != 'Home' %}
-            <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
+          <li><a href="/book/">About the Book</a></li>
+          <li><a href="/author/">About the Author</a></li>
+          <li><a href="/supportingmaterial/">Supporting Material</a></li>
+          <li><a href="/community/">Community</a></li>
         </ul>
       </nav>
     </div>
