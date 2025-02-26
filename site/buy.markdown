@@ -13,7 +13,7 @@ redirect_from: /buy/
   <ul class="downloads">
     <li><a href="https://bookshop.org/a/107304/9781098151867" target="_blank" rel="noopener noreferrer">Buy in <strong>US</strong></a></li>
     <li><a href="https://uk.bookshop.org/p/books/facilitating-software-architecture/7686211?ean=9781098151867" target="_blank" rel="noopener noreferrer">Buy in <strong>UK</strong></a></li>
-    <li><a href="https://www.hive.co.uk/Search/Keyword?keyword=facilitating%20software%20architecture&productType=0" target="_blank" rel="noopener noreferrer"</li>Electronic formats from <strong>Hive</strong></a></li>
+    <li><a href="https://www.hive.co.uk/Search/Keyword?keyword=facilitating%20software%20architecture&productType=0" target="_blank" rel="noopener noreferrer">Electronic formats from <strong>Hive</strong></a></li>
   </ul>
   <h3>Amazon</h3>
   Although there's always the Amazon option.
