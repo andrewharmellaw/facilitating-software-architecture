@@ -1,4 +1,36 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - Facilitating Software Architecture</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+    <header class="site-header">
+        <nav class="mobile-nav">
+            <button class="menu-toggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-links">
+                <li><a href="{{ '/about' | relative_url }}">About the Book</a></li>
+                <li><a href="{{ '/author' | relative_url }}">About the Author</a></li>
+                <li><a href="{{ '/materials' | relative_url }}">Supporting Material</a></li>
+                <li><a href="{{ '/community' | relative_url }}">Community</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="site-content">
+        {{ content }}
+    </main>
+</body>
+</html>
+
+<!--
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
@@ -6,9 +38,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+-->
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     [endif]-->
+<!--
     {% include head-custom.html %}
     <link rel="shortcut icon" type="image/png" href="{{ "/assets/img/favicon.png"  | absolute_url }}">
     {% include matamo-tag-manager.html %}
@@ -52,8 +86,10 @@
       <section>
       {{ content }}
       </section>
+-->
 
       <!-- Temp footer -->
+<!--
       <section>
         <small>Follow Facilitating Software Architecture: <a href="https://www.linkedin.com/company/facilitating-software-architecture" target="_blank" rel="noopener noreferrer"/>LinkedIn</a>, <a href="https://bsky.app/profile/facilitatingsoftwarearchitecture.com" target="_blank" rel="noopener noreferrer">Bluesky</a>, <a rel="me" href="https://hachyderm.io/@facilitatingswarch" target="_blank" rel="noopener noreferrer">Mastodon</a>, <a href="https://twitter.com/facswarch" target="_blank" rel="noopener noreferrer">Twitter</a>.</small><br>
         {% if site.github.is_project_page %}
@@ -70,7 +106,10 @@
         <small>Copyright 2024 Andrew Harmel-Law.</small>
       </footer>
       -->
+-->
+<!--
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
+-->
