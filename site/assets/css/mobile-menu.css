@@ -46,6 +46,10 @@
     display: block;
   }
 
+  .site-title {
+    display: block;
+  }
+
   .header-nav {
     position: fixed;
     top: 0;
