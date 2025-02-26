@@ -36,28 +36,7 @@
       </div>
 
       <!-- "Get the book section" - visible only on desktop -->
-      <div class="get-the-book">
-        {% if site.show_downloads %}
-        <h2>Get the book (& more)</h2>
-        <h3>Bookstores</h3>
-        <ul class="downloads">
-          <li><a href="https://bookshop.org/a/107304/9781098151867" target="_blank" rel="noopener noreferrer">Buy in <strong>US</strong></a></li>
-          <li><a href="https://uk.bookshop.org/p/books/facilitating-software-architecture/7686211?ean=9781098151867" target="_blank" rel="noopener noreferrer">Buy in <strong>UK</strong></a></li>
-        </ul>
-        <h3>Amazon</h3>
-        <ul class="downloads">
-          <li><a href="https://amzn.to/4exHqta" target="_blank" rel="noopener noreferrer">Buy <strong>US Print</strong></a></li>
-          <li><a href="https://amzn.to/3NcUA2H" target="_blank" rel="noopener noreferrer">Buy <strong>UK Print</strong></a></li>
-          <li><a href="https://amzn.to/3YLPgIU" target="_blank" rel="noopener noreferrer">Download <strong>Kindle</strong></a></li>
-        </ul>
-        <h3>O'Reilly Platform</h3>
-        <ul class="downloads">
-          <li><a href="https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/" target="_blank" rel="noopener noreferrer">Read <strong>online</strong></a></li>
-          <li><a href="https://learning.oreilly.com/live-events/architecture-decision-making-by-example/0636920080767/" target="_blank" rel="noopener noreferrer">Train <strong>with me</strong></a></li>
-          <li><a href="./supportingmaterial/">Further <strong>resources</strong></a></li>
-        </ul>
-        {% endif %}  
-      </div>
+      {% include getthebook.html %}
       
       <div class="get-the-book">
         <small>Follow Facilitating Software Architecture:</br> <a href="https://www.linkedin.com/company/facilitating-software-architecture" target="_blank" rel="noopener noreferrer"/>LinkedIn</a>, <a href="https://bsky.app/profile/facilitatingsoftwarearchitecture.com" target="_blank" rel="noopener noreferrer">Bluesky</a>, <a rel="me" href="https://hachyderm.io/@facilitatingswarch" target="_blank" rel="noopener noreferrer">Mastodon</a>, <a href="https://twitter.com/facswarch" target="_blank" rel="noopener noreferrer">Twitter</a>.</small><br>
