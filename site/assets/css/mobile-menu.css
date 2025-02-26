@@ -51,6 +51,7 @@
   }
 
   .header-nav {
+    display: block;
     position: fixed;
     top: 0;
     right: -100%;
