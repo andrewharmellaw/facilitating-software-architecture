@@ -104,29 +104,28 @@
 }
 
 /* Fancy highlighter hyperlinks */
-.clip-path-highlighter {
+.post-content a,  /* For links in post content */
+.page-content a { /* For links in page content */
   position: relative;
   display: inline-block;
   padding: 0 4px;
+  text-decoration: none; /* Remove default underline */
   font-weight: 500;
+  z-index: 1; /* Ensure link text stays above highlight */
 }
 
-.clip-path-highlighter::after {
+.post-content a::after,
+.page-content a::after {
   content: "";
   position: absolute;
   left: 0;
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: rgba(134, 239, 172, 0.6); /* green-300 with 60% opacity */
+  background-color: rgba(253, 224, 71, 0.5); /* Yellow highlight */
   z-index: -1;
   transform: rotate(-1deg);
-  /* Create uneven edges with clip-path */
-  clip-path: polygon(
-    0% 15%, 4% 10%, 8% 5%, 15% 8%, 20% 5%, 
-    /* more points to create uneven top edge */
-    100% 10%, 100% 90%, 95% 95%, 90% 90%, 
-    /* more points to create uneven bottom edge */
-    5% 95%, 0% 90%
-  );
+  border-radius: 2px;
+  /* Optional: add transition for hover effect */
+  transition: background-color 0.2s ease;
 }
