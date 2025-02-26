@@ -30,6 +30,16 @@
   display: block;
 }
 
+/* Hide the site-title home link on desktop */
+.site-title {
+  display: none;
+}
+
+/* Hide the hamburger menu items on desktop */
+.header-nav {
+  display: none;
+}
+
 /* Mobile styles */
 @media screen and (max-width: 768px) {
   .menu-toggle {
