@@ -1,1 +1,25 @@
-
+<header class="site-header">
+  <div class="wrapper">
+    <div class="header-container">
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      
+      <!-- Hamburger menu button (only visible on mobile) -->
+      <button id="menu-toggle" class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </button>
+      
+      <!-- Navigation that will be toggled on mobile -->
+      <nav id="header-nav" class="header-nav">
+        <ul class="nav-list">
+          {% for page in site.pages %}
+            {% if page.title and page.title != 'Home' %}
+            <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
