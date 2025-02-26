@@ -59,6 +59,11 @@
     width: 100%;
   }
 
+  /* Hide get the book section on mobile */
+  .get-the-book {
+    display: none;
+  }
+  
   /* Hamburger animation */
   .menu-toggle.active .bar:nth-child(1) {
     transform: translateY(8px) rotate(45deg);
