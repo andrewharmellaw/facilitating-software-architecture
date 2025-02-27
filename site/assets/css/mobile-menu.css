@@ -130,7 +130,8 @@
   top: 0;
   bottom: 0;
   height: 8px;
-  background-color: rgba(253, 224, 71, 0.5); /* Yellow highlight */
+/*   background-color: rgba(253, 224, 71, 0.5); /* Yellow highlight */ */
+    background-color: rgba(201, 225, 253, 0.5); /* Blue highlight */
   z-index: -1;
   transform: rotate(-1deg);
   border-radius: 2px;
@@ -142,6 +143,7 @@
 /* Optional: change highlight color on hover */
 .post-content a:hover::after,
 .page-content a:hover::after {
-  background-color: rgba(253, 224, 71, 0.7);
+/*   background-color: rgba(253, 224, 71, 0.7); */
+  background-color: rgba(201, 225, 253, 0.7);
   height: 100%;
 }
