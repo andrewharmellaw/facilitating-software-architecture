@@ -40,6 +40,7 @@ The links in this page are structured by chapter, and many of the links in the b
 * [Alternative Architectural Principle Flavours](/alternative-architectural-principle-flavors/)
 
 ### Chapter 11 - Using a Technology Radar
+* [Complete chapter](./../assets/pdf/facilitating_software_architecture_11.pdf), available as a PDF.
 * An example Technology Radar: [Spreadsheet data](/radar-example-spreadsheet) and [published radar](/radar-example-published).
 * [Zoomable figures of the spreadsheet data](/zoomable-radar-ssht-figs/).
 * [Alternative Technology Radar Flavours](/alternative-tech-radar-flavors/).
