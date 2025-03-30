@@ -55,6 +55,9 @@ The links in this page are structured by chapter, and many of the links in the b
 * [Why “Autonomous” Teams Don’t Realize Their Full Acountabilities](/autonomous-teams-and-accountabilities/).
 
 ## Talks, Panels and Interviews About Facilitating Software Architecture
+* [Great Architects Facilitate, Not Dictate Software Decisions – Insights from Andrew Harmel-Law](https://www.youtube.com/watch?v=jBAjr44Redo&ab_channel=InfoQ) - a follow-up conversation with Thomas Betts on the InfoQ podcast (24th Feb, 2025)
+* [Who should make software architecture decisions?](https://www.youtube.com/watch?v=BixPK3aQ3kY&ab_channel=Thoughtworks) - a conversation with Neal Ford and Prem Chandrasekaran on the Thoughtworks Technology Podcast (26th December, 2024)
+* [Facilitating Software Architecture](https://www.youtube.com/watch?v=YpFR8qzwYSA&ab_channel=GOTOConferences) - GOTO Bookclub conversation with Sonya Natanzon (18th December, 2024)
 * [A Commune in the Ivory Tower](https://www.youtube.com/watch?v=fNIztIQWa04&ab_channel=DevoxxUK) - an introduction to the Architecture Advice Process with adoption tips
 * [How We Decide](https://www.youtube.com/watch?v=qvV8GnIf974&ab_channel=DevoxxUK) - an overview of the process of deciding, with an assessment of the various approaches to deciding in groups (as described in chapter 3 of the book)
 * [Minimal Viable Alignment (and Why It Matters)](https://www.youtube.com/watch?v=ajbgXzifhFk&ab_channel=CodecampRomania) - an introduction to means of achieveing minimal viable alignment when organizing for flow and self-management. Covers testable cross-functional requirements, actionable tech strategy, and more (as described in chapter 9 of the book)
