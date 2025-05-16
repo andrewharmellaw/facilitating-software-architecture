@@ -71,3 +71,4 @@ The links in this page are structured by chapter, and many of the links in the b
 
 ## Additional Material 
 * [Further Reading](/further-reading/) - Links to books mentioned in Facilitating Software Architecure, and more.
+*  "[How to provide feedback on documents](https://lethain.com/providing-feedback-on-writing/)" - blog post by Will Larson (Author of books An Elegant Puzzle, Staff Engineer and The Engineering Executive's Primer) after his company ran a Facilitating Software Architecture reading group
