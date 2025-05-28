@@ -14,6 +14,7 @@ The links in this page are structured by chapter, and many of the links in the b
 * The original social media thread on ["Anarchistic Architecture"](./../assets/pdf/Twitter-Thread-Anarchistic-Architecture.pdf)
 
 ### Chapter 2 - To Practice Architecture is to Decide
+* [Cut-and-pasteable "Is my Decision Architecturally Significant?" one pager](/is-my-decision-significant-one-pager/)
 * Social media thread ["Thoughts on the anthropology of software (power and freedom special edition)"](./../assets/pdf/Twitter-Thread-Anthropology-of-Software-Power-and-Freedom.pdf)
 
 ### Chapter 4 - The Architecture Advice Process
