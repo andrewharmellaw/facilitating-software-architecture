@@ -18,7 +18,7 @@ _"At its best, software architecture is evolved by everyone involved. Andrew's b
 
 _"This is a wonderful guide to the kind of decentralized and participative architecture decision making needed to steward the evolution of complex software-intensive systems."_ -- **Ruth Malan, Archtecture Consultant, Bredemeyer Consulting**
 
-"A fascinating dive into the often undiscussed act of decision making, with particular depth being given to the social aspects. Recommended for anybody looking to transition away from the traditional centralized power structures typically associated with software architecture." -- **Simon Brown, creator of the C4 model for visualizing software architecture**
+_"A fascinating dive into the often undiscussed act of decision making, with particular depth being given to the social aspects. Recommended for anybody looking to transition away from the traditional centralized power structures typically associated with software architecture."_ -- **Simon Brown, creator of the C4 model for visualizing software architecture**
 
 _"Controversially, I don't believe that "everyone can do architecture". Architecture is not a skill demonstrated by one individual. Architecture is the orchestration of practices that generate systemic support for thinking well together about software systems. In this book, Andrew tells us what those practices are, why they matter, and how to adopt them. Read the book. Prove me wrong."_ -- **Diana Montalion, Systems architect, Mentrix founder, author of Learning Systems Thinking**
 
