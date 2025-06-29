@@ -56,6 +56,7 @@ The links in this page are structured by chapter, and many of the links in the b
 * [Why “Autonomous” Teams Don’t Realize Their Full Acountabilities](/autonomous-teams-and-accountabilities/).
 
 ## Talks, Panels and Interviews About Facilitating Software Architecture
+* [Empowering Decisions and Embracing AI with Andrew Harmel-Law](https://www.youtube.com/watch?v=ModrjWUjQVQ&ab_channel=ArchitectureWeekly) - A conversation with Architecture Weekly about the latest [InfoQ State of Architecture and Design Trends report](https://www.infoq.com/articles/architecture-trends-2025/), the Advice Process, and GenAI
 * [Great Architects Facilitate, Not Dictate Software Decisions – Insights from Andrew Harmel-Law](https://www.youtube.com/watch?v=jBAjr44Redo&ab_channel=InfoQ) - a follow-up conversation with Thomas Betts on the InfoQ podcast (24th Feb, 2025)
 * [Who should make software architecture decisions?](https://www.youtube.com/watch?v=BixPK3aQ3kY&ab_channel=Thoughtworks) - a conversation with Neal Ford and Prem Chandrasekaran on the Thoughtworks Technology Podcast (26th December, 2024)
 * [Facilitating Software Architecture](https://www.youtube.com/watch?v=YpFR8qzwYSA&ab_channel=GOTOConferences) - GOTO Bookclub conversation with Sonya Natanzon (18th December, 2024)
