@@ -1,5 +1,5 @@
 # facilitating-software-architecture
-Materials associated with my book "[Facilitating Software Architecture](https://facilitatingsoftwarearchitecture.com)" published by O'Reill Media.
+Materials associated with my book "[Facilitating Software Architecture](https://facilitatingsoftwarearchitecture.com)" published by O'Reilly Media.
 
 ![Facilitating Software Architecture book cover showing a green female and a red male European White-Winged Crossbill.](./site/assets/img/cover.png)
 
