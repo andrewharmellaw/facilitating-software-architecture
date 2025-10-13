@@ -108,9 +108,10 @@
   /* Add left margin to the main wrapper to prevent overlap with sidebar */
   .wrapper {
     width: auto;
-    margin: 0 auto 0 330px; /* Left margin for sidebar + spacing */
-    padding-right: 50px;
-    max-width: calc(100% - 380px); /* Ensure content doesn't extend too far */
+    margin-left: 310px; /* Reduced from 330px */
+    margin-right: 50px;
+    padding-right: 20px;
+    max-width: none; /* Remove the restrictive max-width */
   }
   
   /* Ensure the header section also respects the sidebar */
@@ -120,13 +121,13 @@
     top: 0;
     width: 270px;
   }
-  
-  /* For medium-width screens, reduce the margin slightly */
-  @media screen and (max-width: 1100px) {
-    .wrapper {
-      margin-left: 300px;
-      max-width: calc(100% - 350px);
-    }
+}
+
+/* For smaller desktop screens, reduce the left margin */
+@media screen and (min-width: 769px) and (max-width: 960px) {
+  .wrapper {
+    margin-left: 290px;
+    margin-right: 30px;
   }
 }
 
