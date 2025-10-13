@@ -108,13 +108,13 @@
   /* Add left margin to the main wrapper to prevent overlap with sidebar */
   .wrapper {
     width: auto;
-    margin-left: 310px; /* Reduced from 330px */
+    margin-left: 350px; /* Increased to give proper clearance */
     margin-right: 50px;
     padding-right: 20px;
-    max-width: none; /* Remove the restrictive max-width */
+    max-width: none;
   }
   
-  /* Ensure the header section also respects the sidebar */
+  /* Ensure the header section stays fixed */
   header {
     position: fixed;
     left: 0;
@@ -123,11 +123,19 @@
   }
 }
 
-/* For smaller desktop screens, reduce the left margin */
-@media screen and (min-width: 769px) and (max-width: 960px) {
+/* For medium-width screens (like your current window), still need good spacing */
+@media screen and (min-width: 769px) and (max-width: 1100px) {
   .wrapper {
-    margin-left: 290px;
+    margin-left: 340px; /* Still plenty of space */
     margin-right: 30px;
+  }
+}
+
+/* For very wide screens, can add more right margin for better reading width */
+@media screen and (min-width: 1400px) {
+  .wrapper {
+    margin-left: 350px;
+    margin-right: 100px;
   }
 }
 
