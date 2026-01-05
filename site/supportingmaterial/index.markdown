@@ -56,8 +56,8 @@ The links in this page are structured by chapter, and many of the links in the b
 * [Why “Autonomous” Teams Don’t Realize Their Full Acountabilities](/autonomous-teams-and-accountabilities/).
 
 ## Talks, Panels and Interviews About Facilitating Software Architecture
-* Selected as one of the five Architecture books in Gartner's [2026 Reading Guide for Software Architects and Engineers](https://www.gartner.com/document-reader/document/7243630) by Peter Hyde. (Subscription needed.)
-* Facilitating Software Architecture made Luca Mezallira's "Dear Architects" reading list for 2026](https://preview.mailerlite.io/preview/1235400/emails/174977785428706410)
+* [Gartner's 2026 Reading Guide for Software Architects and Engineers](https://www.gartner.com/document-reader/document/7243630) by Peter Hyde includes Facilitating Software Architecture as one of the five architecture books. (Subscription needed.)
+* ["Dear Architects" reading list for 2026](https://preview.mailerlite.io/preview/1235400/emails/174977785428706410) - Luca Mezallira included Facilitating Software Architecture in his picks 
 * "[Empowering Teams: Decentralizing Architectural Decision-Making](https://www.infoq.com/presentations/teams-decision-making/) - Peter Hunter (yes, _that_ Peter, the one from the book) & Elena Stojmilova from OpenGI talk about working with the advice process since 2020. 
 * [Decentralized Architecture Needs More Than Autonomy](https://www.infoq.com/articles/decentralized-architecture-advice-process/) - A very insightful case study by Lindsey Tibbitts on the adoption of the Architecture Advice Process at Fleetworthy
 * [Empowering Decisions and Embracing AI with Andrew Harmel-Law](https://www.youtube.com/watch?v=ModrjWUjQVQ&ab_channel=ArchitectureWeekly) - A conversation with Architecture Weekly about the latest [InfoQ State of Architecture and Design Trends report](https://www.infoq.com/articles/architecture-trends-2025/), the Advice Process, and GenAI
