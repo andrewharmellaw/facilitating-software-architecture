@@ -56,6 +56,10 @@ The links in this page are structured by chapter, and many of the links in the b
 * [Why “Autonomous” Teams Don’t Realize Their Full Acountabilities](/autonomous-teams-and-accountabilities/).
 
 ## Talks, Panels and Interviews About Facilitating Software Architecture
+* Selected as one of the five Architecture books in Gartner's [2026 Reading Guide for Software Architects and Engineers](https://www.gartner.com/document-reader/document/7243630) by Peter Hyde. (Subscription needed.)
+* Facilitating Software Architecture made Luca Mezallira's "Dear Architects" reading list for 2026](https://preview.mailerlite.io/preview/1235400/emails/174977785428706410)
+* "[Empowering Teams: Decentralizing Architectural Decision-Making](https://www.infoq.com/presentations/teams-decision-making/) - Peter Hunter (yes, _that_ Peter, the one from the book) & Elena Stojmilova from OpenGI talk about working with the advice process since 2020. 
+* [Decentralized Architecture Needs More Than Autonomy](https://www.infoq.com/articles/decentralized-architecture-advice-process/) - A very insightful case study by Lindsey Tibbitts on the adoption of the Architecture Advice Process at Fleetworthy
 * [Empowering Decisions and Embracing AI with Andrew Harmel-Law](https://www.youtube.com/watch?v=ModrjWUjQVQ&ab_channel=ArchitectureWeekly) - A conversation with Architecture Weekly about the latest [InfoQ State of Architecture and Design Trends report](https://www.infoq.com/articles/architecture-trends-2025/), the Advice Process, and GenAI
 * [Great Architects Facilitate, Not Dictate Software Decisions – Insights from Andrew Harmel-Law](https://www.youtube.com/watch?v=jBAjr44Redo&ab_channel=InfoQ) - a follow-up conversation with Thomas Betts on the InfoQ podcast (24th Feb, 2025)
 * [Who should make software architecture decisions?](https://www.youtube.com/watch?v=BixPK3aQ3kY&ab_channel=Thoughtworks) - a conversation with Neal Ford and Prem Chandrasekaran on the Thoughtworks Technology Podcast (26th December, 2024)
@@ -73,4 +77,5 @@ The links in this page are structured by chapter, and many of the links in the b
 
 ## Additional Material 
 * [Further Reading](/further-reading/) - Links to books mentioned in Facilitating Software Architecure, and more.
+* [Stories on Facilitating Software Design and Architecture](https://virtualddd.com/stories-on-facilitating-software-architecture-design) - a podcast I host with Andrea Magnorsky and Kenny Baas-Schwegler where we talk to various industry luminaries about their experiences. We pull out [heuristics](https://virtualddd.com/guiding-heuristics/?filter=true&heuristics_tag=facilitating-software-design-and-architecture) that arise from these converstions too.
 *  "[How to provide feedback on documents](https://lethain.com/providing-feedback-on-writing/)" - blog post by Will Larson (Author of books An Elegant Puzzle, Staff Engineer and The Engineering Executive's Primer) after his company ran a Facilitating Software Architecture reading group
