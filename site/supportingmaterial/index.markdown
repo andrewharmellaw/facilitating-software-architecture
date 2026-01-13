@@ -56,6 +56,7 @@ The links in this page are structured by chapter, and many of the links in the b
 * [Why “Autonomous” Teams Don’t Realize Their Full Acountabilities](/autonomous-teams-and-accountabilities/).
 
 ## Talks, Panels and Interviews About Facilitating Software Architecture
+* [Better Architectural Decision Making for Everyone](https://www.case-podcast.org/60-the-architecture-advice-process) - some super deep dives on the "Conversations about Software Engineering" podcast
 * [Gartner's 2026 Reading Guide for Software Architects and Engineers](https://www.gartner.com/document-reader/document/7243630) by Peter Hyde includes Facilitating Software Architecture as one of the five architecture books. (Subscription needed.)
 * ["Dear Architects" reading list for 2026](https://preview.mailerlite.io/preview/1235400/emails/174977785428706410) - Luca Mezallira included Facilitating Software Architecture in his picks 
 * "[Empowering Teams: Decentralizing Architectural Decision-Making](https://www.infoq.com/presentations/teams-decision-making/)" - Peter Hunter (yes, _that_ Peter, the one from the book) & Elena Stojmilova from OpenGI talked at QCon London 2025 about working with the advice process since 2020. 
