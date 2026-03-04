@@ -61,7 +61,7 @@ These are the decision criteria:
 
 ## Advice
 * Have we thought about the possibility of auto-generated profanity in the auto-generated text? It could be bad for our reputation if this happened. _(Monira R., Product Manager, 25 Aug, 2024)_
-* What’s the possibility of ID collisions with each option? Have we looked at generating them in a database? It’s a good way to offload the responsibility of making sure IDs are unique. _(Hanna A., Infra team, 24 Aug, 2024)_
+* What’s the possibility of ID collisions with each option? Have we looked at generating them in a database? It’s a good way to offload the responsibility of making sure IDs are unique. _(Hannah A., Infra team, 24 Aug, 2024)_
 * Does making it human-meaningful matter, or just human-readable? _(Rebecca F., UX, 25 Aug, 2024)_
 * Can we list out all the places where we’ll need to use this ID? _(Izzy H., Tech Lead from another team: Site Search, 28 Aug, 2024)_
 * Will the IDs be exposed publicly? We must think about leakage of internal data models and generation modes as it might broaden our attack surface. _(Pete H., Infosec, 25 Aug, 2024)_
