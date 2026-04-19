@@ -1,4 +1,4 @@
-# An Basic Architecture Advice Forum Standng Agenda
+# A Basic Architecture Advice Forum Standng Agenda
 
 ## Advice Seeking and Offering
  * Link in ADRs seeking advice here
