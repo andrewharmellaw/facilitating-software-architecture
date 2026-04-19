@@ -21,7 +21,7 @@
         </ul>
       </nav>
 
-      <!-- Sidebar Nav - visible only on desktop) -->
+      <!-- Sidebar Nav (visible only on desktop) -->
       <div class="desktop-side-nav">
         {% if site.logo %}
           <a href="/"><img width="300" src="{{site.logo | relative_url}}" alt="Facilitating Software Architecture book cover showing a green female and a red male European White-Winged Crossbill." /></a>
@@ -35,9 +35,10 @@
         <br/>
       </div>
 
-      <!-- "Get the book section" - visible only on desktop -->
+      <!-- "Get the book" (visible only on desktop) -->
       {% include getthebook.html %}
-      
+
+      <!-- "Socials and Credits" (visible only on desktop) -->
       <div class="get-the-book">
         <small>Follow Facilitating Software Architecture:</br> <a href="https://www.linkedin.com/company/facilitating-software-architecture" target="_blank" rel="noopener noreferrer"/>LinkedIn</a>, <a href="https://bsky.app/profile/facilitatingsoftwarearchitecture.com" target="_blank" rel="noopener noreferrer">Bluesky</a>, <a rel="me" href="https://hachyderm.io/@facilitatingswarch" target="_blank" rel="noopener noreferrer">Mastodon</a>, <a href="https://twitter.com/facswarch" target="_blank" rel="noopener noreferrer">Twitter</a>.</small><br>
         {% if site.github.is_project_page %}
