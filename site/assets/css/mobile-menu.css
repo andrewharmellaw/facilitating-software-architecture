@@ -42,12 +42,11 @@
 
 /* --- Desktop layout fix: prevent sidebar overlap --- */
 @media screen and (min-width: 768px) {
-  body {
-    padding-left: 290px; /* push all body content past the sidebar */
-  }
-
-  #header {
-    width: 270px;
+  div.wrapper + div.wrapper {
+    margin-left: 290px;
+    margin-right: 20px;
+    width: auto;
+    max-width: 860px;
   }
 }
 
