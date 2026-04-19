@@ -4,5 +4,5 @@
 
 title: My amazing post
 redirect_from: /aaf-standing-agenda-example/
-redirect_to: https://github.com/andrewharmellaw/facilitating-software-architecture/blob/main/adviceforum/terms-of-reference.md
+redirect_to: https://github.com/andrewharmellaw/facilitating-software-architecture/blob/main/adviceforum/basic-standing-agenda.md
 ---
