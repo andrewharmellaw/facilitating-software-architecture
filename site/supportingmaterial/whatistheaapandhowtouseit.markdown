@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-redirect_from: /advice-process-one-pager/
+redirect_from: /what-is-the-arch-advice-process/
 ---
 # What is the Architecture Advice Process (And How to Use It)
 I get asked a lot for a quick intro to the Architecture Advice Process as well as a Guide How to Use It. While this is the topic of the book, I do understand that the book is 500+ pages. 
