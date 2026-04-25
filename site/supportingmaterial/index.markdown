@@ -59,7 +59,18 @@ The links in this page are structured by chapter, and many of the links in the b
 ## "What is the Architecture Advice Process and How to Use It?"
 A [talk and curated set of relavant resources](what-is-the-arch-advice-process) to help you start out with the AAP.
 
-## Talks, Panels and Interviews About Facilitating Software Architecture
+## Case Studies from Architecture Advice Process Adopters
+* "[Empowering Teams: Decentralizing Architectural Decision-Making](https://www.infoq.com/presentations/teams-decision-making/)" - Peter Hunter (yes, _that_ Peter, the one from the book) & Elena Stojmilova from OpenGI talk at QCon London 2025 about working with the advice process since 2020.
+* "[Decentralized Architecture Needs More Than Autonomy](https://www.infoq.com/articles/decentralized-architecture-advice-process/)" - A very insightful case study by Lindsey Tibbitts on the adoption of the Architecture Advice Process at [Fleetworthy](https://fleetworthy.com/) (Jun 19, 2025)
+* "[Decentralising the Practice of Architecture at Xapo Bank"](https://martinfowler.com/articles/xapo-architecture-experience.html) - Noush Streets, Kamil Dziublinski and I share our learnings (July 18 2023)
+* "Balancing autonomy, growth and culture in engineering teams" ([Part 1](https://clear.bank/learn/insights/balancing-autonomy-growth-and-culture-in-engineering-teams-part-1)) ([Part 2](https://clear.bank/learn/insights/balancing-autonomy-growth-and-culture-in-engineering-teams-part-two)) - Michael Grey of Clear.Bank shares his experiences 
+
+## Talks, Panels, Interviews and Articles About Facilitating Software Architecture
+* Chris Richardson's article on ["Architecture Advice Process for Fast Flow"](https://microservices.io/post/architecture/2025/03/23/andrew-harmel-law-architecture-advice-process.html)
+* Notes by [Chris Bargmann](https://cbrgm.net/) on [Eric Dorenberg's talk](https://cbrgm.net/recap-architecture-advice-process-tech-talk-by-eric-doernenburg/) at [MOIA](https://www.moia.io) on the Architecture Advice Process
+* Andrea Magnorsky's series on ["The Making of a Decision"](https://www.roundcrisis.com/2025/09/01/making-of-a-decision/) lists the Architecture Advice Process as a useful ["Cross-Team tool"](https://www.roundcrisis.com/2026/01/15/making-of-a-decision-3/)
+* Will Larson's "[Crafting Engineering Strategy](https://lethain.com/policy-for-strategy/)" refers to the Architecture Advice Process
+* Elena Stojmilova and Pete Hunter talk about the path from opinions to Advice on [this episode of the "Stories about facilitating Software Architecture and design" podcast](https://virtualddd.com/facilitating-archdes/team-led-architecture-advice-process/)
 * [Decentralizing Architectural Decisions with the Architecture Advice Process](https://www.infoq.com/news/2026/03/architecture-advice-process/) - first Q&A with InfoQ's Ben Linders
 * [Better Architectural Decision Making for Everyone](https://www.case-podcast.org/60-the-architecture-advice-process) - some super deep dives on the "Conversations about Software Engineering" podcast
 * [Gartner's 2026 Reading Guide for Software Architects and Engineers](https://www.gartner.com/document-reader/document/7243630) by Peter Hyde includes Facilitating Software Architecture as one of the five architecture books. (Subscription needed.)
