@@ -7,11 +7,12 @@ layout: default
 # Supporting Material for Facilitating Software Architecture
 It turns out that when you write a book about architectural practice in the sociotechnical world there is a LOT that can be said. Not all of that made its way into the book, and instead has found safe harbour here. 
 
-The links in this page are structured by chapter, and many of the links in the book connect to these artefacts too. As I collate further supplementary things, I'll put them here for everyones benefit too. And if you have something you thikn others might benefit from, head over to the community and/or drop me a line at <info@facilitatingsoftwarearchitecture.com>.
+The links in this page are structured by chapter, and many of the links in the book connect to these artefacts too. As I collate further supplementary things, I'll put them here for everyones benefit too. And if you have something you thikn others might benefit from, head over to the [community](./../coimmunity/) and/or drop me a line at <info@facilitatingsoftwarearchitecture.com>.
 
 ## Worked Examples and Additional Material From the Book
 ### Preface
 * The original social media thread on ["Anarchistic Architecture"](./../assets/pdf/Twitter-Thread-Anarchistic-Architecture.pdf)
+* The article on MartinFowler.com that eventually became the book, ["Scaling the Practice of Architecture, Conversationally"](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 
 ### Chapter 2 - To Practice Architecture is to Decide
 * [Cut-and-pasteable "Is my Decision Architecturally Significant?" one pager](/is-my-decision-significant-one-pager/)
