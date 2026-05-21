@@ -66,6 +66,7 @@ A [talk and curated set of relavant resources](what-is-the-arch-advice-process) 
 * "Balancing autonomy, growth and culture in engineering teams" ([Part 1](https://clear.bank/learn/insights/balancing-autonomy-growth-and-culture-in-engineering-teams-part-1)) ([Part 2](https://clear.bank/learn/insights/balancing-autonomy-growth-and-culture-in-engineering-teams-part-two)) - Michael Grey of Clear.Bank shares his experiences 
 
 ## Talks, Panels, Interviews and Articles About Facilitating Software Architecture
+* ["Architecting Autonomy: Decentralising Architecture Inside an Organization"](https://www.infoq.com/minibooks/architecting-autonomy/) - An InfoQ eMagazine that brings together experience with the Advice Process and much, much more. 
 * Chris Richardson's article on ["Architecture Advice Process for Fast Flow"](https://microservices.io/post/architecture/2025/03/23/andrew-harmel-law-architecture-advice-process.html)
 * Notes by [Chris Bargmann](https://cbrgm.net/) on [Eric Dorenberg's talk](https://cbrgm.net/recap-architecture-advice-process-tech-talk-by-eric-doernenburg/) at [MOIA](https://www.moia.io) on the Architecture Advice Process
 * Andrea Magnorsky's series on ["The Making of a Decision"](https://www.roundcrisis.com/2025/09/01/making-of-a-decision/) lists the Architecture Advice Process as a useful ["Cross-Team tool"](https://www.roundcrisis.com/2026/01/15/making-of-a-decision-3/)
