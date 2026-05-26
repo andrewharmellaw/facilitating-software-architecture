@@ -42,19 +42,19 @@ The links in this page are structured by chapter, and many of the links in the b
 * [Alternative Architectural Principle Flavours](/alternative-architectural-principle-flavors/)
 
 ### Chapter 11 - Using a Technology Radar
-* [Complete chapter](./../assets/pdf/facilitating_software_architecture_11.pdf), available as a PDF.
-* An example Technology Radar: [Spreadsheet data](/radar-example-spreadsheet) and [published radar](/radar-example-published).
-* [Zoomable figures of the spreadsheet data](/zoomable-radar-ssht-figs/).
-* [Alternative Technology Radar Flavours](/alternative-tech-radar-flavors/).
+* [Complete chapter](./../assets/pdf/facilitating_software_architecture_11.pdf), available as a PDF
+* An example Technology Radar: [Spreadsheet data](/radar-example-spreadsheet) and [published radar](/radar-example-published)
+* [Zoomable figures of the spreadsheet data](/zoomable-radar-ssht-figs/)
+* [Alternative Technology Radar Flavours](/alternative-tech-radar-flavors/)
 
 ### Chapter 14 - Variability and the Interconnectedness of Decisions
 * [A spike example](/spike-example/)
 
 ### Chapter 15 - The Transition of Power and Accountability
-* [Thoughts on typical saboteurs of the advice process and decentralized deciding in general](/typical-saboteurs/).
+* [Thoughts on typical saboteurs of the advice process and decentralized deciding in general](/typical-saboteurs/)
 
 ### Chapter 16 - On Leadership
-* [Why “Autonomous” Teams Don’t Realize Their Full Acountabilities](/autonomous-teams-and-accountabilities/).
+* [Why “Autonomous” Teams Don’t Realize Their Full Acountabilities](/autonomous-teams-and-accountabilities/)
 
 ## "What is the Architecture Advice Process and How to Use It?"
 A [talk and curated set of relavant resources](what-is-the-arch-advice-process) to help you start out with the AAP.
