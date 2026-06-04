@@ -46,12 +46,12 @@ In the talk I mention a number of things that can heklp you in your adoption of 
     * An [example AAF standing agenda](/aaf-standing-agenda-example/)
     * My talk on Anarchy, ["Everything You Ever Wanted to Know About Anarchy (But Were Afraid to Ask)"](https://www.youtube.com/watch?v=F9CKaPWi-bQ)
     * My [conversation with Eberhard Wolff](https://www.youtube.com/watch?v=8FenEnkGGJU) that goes into even greater depth on the same topic
-* **Section: Systemic Awareness**
-  * _Sub-Section - System Sensing - Aspect I_
+* **Section: Cool Down**
+  * _Sub-Section - System Sensing - The Technical_
     * [Chapter 9](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch09.html) of my book covers the importance of of oganizational alignment, the concept of "minimal viable agreement", cross-functional requirements, and technology strategy
     * [Chapter 10](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch10.html) of my book dives deep into how to collectively source, and evolve Architectural Principles
     * [Chapter 11](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch11.html) of my book details how to build and maintain your organisation's own Technology Radar. (This chapter is [free to download](./../assets/pdf/facilitating_software_architecture_11.pdf) too.)
-  * _Sub-Section - System Sensing - Aspect II_
+  * _Sub-Section - System Sensing - The Social_
     * [Chapter 15](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch15.html) of my book goes into details on safety, and how to build it
     * [Chapter 16](https://learning.oreilly.com/library/view/facilitating-software-architecture/9781098151850/ch16.html) of my book goes into leadership, and how to cultivate it at every level of your software delivery practice
 * **Section: Conclusion**
