@@ -57,7 +57,7 @@ The links in this page are structured by chapter, and many of the links in the b
 * [Why “Autonomous” Teams Don’t Realize Their Full Acountabilities](/autonomous-teams-and-accountabilities/)
 
 ## "What is the Architecture Advice Process and How to Use It?"
-A [talk and curated set of relavant resources](what-is-the-arch-advice-process) to help you start out with the AAP.
+A [talk and curated set of relavant resources](/what-is-the-arch-advice-process/) to help you start out with the AAP.
 
 ## Case Studies from Architecture Advice Process Adopters
 * "[Empowering Teams: Decentralizing Architectural Decision-Making](https://www.infoq.com/presentations/teams-decision-making/)" - Peter Hunter (yes, _that_ Peter, the one from the book) & Elena Stojmilova from OpenGI talk at QCon London 2025 about working with the advice process since 2020.
